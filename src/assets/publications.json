@@ -1,0 +1,210 @@
+[
+    {
+        "title": "Neutrino Event Selection in the MicroBooNE Liquid Argon Time Projection Chamber using Wire-Cell 3D Imaging, Clustering, and Charge-Light Matching",
+        "arXiv": "2011.01375",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber",
+        "arXiv": "2010.08653",
+        "year": "2020",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Measurement of Differential Cross Sections for Muon Neutrino Charged Current Interactions on Argon with Protons and No Pions in the Final State with the MicroBooNE Detector",
+        "arXiv": "2010.02390",
+        "year": "2020",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Measurement of Space Charge Effects in the MicroBooNE LAr TPC Using Cosmic Muons",
+        "arXiv": "2008.09765",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "",
+        "status": "accepted"
+    },
+    {
+        "title": "The Continuous Readout Stream of the MicroBooNE Liquid Argon Time Projection Chamber for Detection of Supernova Burst Neutrinos",
+        "arXiv": "2008.13761",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "First Measurement of Differential Charged Current Quasi-Elastic-Like Muon Neutrino Argon Scattering Cross Sections with the MicroBooNE Detector",
+        "arXiv": "2006.00108",
+        "year": "2020",
+        "journal": "PRL",
+        "cite": "Phys. Rev. Lett 125, 201803 (2020)",
+        "status": "published"
+    },
+    {
+        "title": "Vertex-Finding and Reconstruction of Contained Two-track Neutrino Events in the MicroBooNE Detector",
+        "arXiv": "2002.09375",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Search for heavy neutral leptons decaying into muon-pion pairs in the MicroBooNE detector",
+        "arXiv": "1911.10545",
+        "year": "2020",
+        "journal": "PRD",
+        "cite": "Phys. Rev. D101, 052001 (2020)",
+        "status": "published"
+    },
+    {
+        "title": "Reconstruction and Measurement of O(100) MeV Electromagnetic Activity from π0 → γ γ Decays in the MicroBooNE LArTPC",
+        "arXiv": "1910.02166",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "JINST 15, P02007 (2020)",
+        "status": "published"
+    },
+    {
+        "title": "A Method to Determine the Electric Field of Liquid Argon Time Projection Chambers Using a UV Laser System and its Application in MicroBooNE",
+        "arXiv": "1910.01430",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "JINST 15, P07010 (2020)",
+        "status": "published"
+    },
+    {
+        "title": "Calibration of the Charge and Energy Response of the MicroBooNE Liquid Argon Time Projection Chamber Using Muons and Protons",
+        "arXiv": "1907.11736",
+        "year": "2020",
+        "journal": "JINST",
+        "cite": "JINST 15, P03022 (2020)",
+        "status": "published"
+    },
+    {
+        "title": "First Measurement of Inclusive Muon Neutrino Charged Current Differential Cross Sections on Argon at Enu ~0.8 GeV with the MicroBooNE Detector",
+        "arXiv": "1905.09694",
+        "year": "2019",
+        "journal": "PRL",
+        "cite": "Phys. Rev. Lett. 123, 131801 (2019)",
+        "status": "published"
+    },
+    {
+        "title": "Design and Construction of the MicroBooNE Cosmic Ray Tagger System",
+        "arXiv": "1901.02862",
+        "year": "2019",
+        "journal": "JINST",
+        "cite": "JINST 14, P04004 (2019)",
+        "status": "published"
+    },
+    {
+        "title": "Rejecting Cosmic Background for Exclusive Neutrino Interaction Studies with Liquid Argon TPCs: A Case Study with the MicroBooNE Detector",
+        "arXiv": "1812.05679",
+        "year": "2019",
+        "journal": "EPJC",
+        "cite": "Eur. Phys. J. C79, 673 (2019)",
+        "status": "published"
+    },
+    {
+        "title": "First Measurement of Muon Neutrino Charged Current Neutral Pion Production on Argon with the MicroBooNE detector",
+        "arXiv": "1811.02700",
+        "year": "2019",
+        "journal": "PRD",
+        "cite": "Phys. Rev. D99, 091102(R) (2019)",
+        "status": "published"
+    },
+    {
+        "title": "A Deep Neural Network for Pixel-Level Electromagnetic Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber",
+        "arXiv": "1808.07269",
+        "year": "2019",
+        "journal": "PRD",
+        "cite": "Phys. Rev. D99, 092001 (2019)",
+        "status": "published"
+    },
+    {
+        "title": "Comparison of Muon-Neutrino-Argon Multiplicity Distributions Observed by MicroBooNE to GENIE Model Predictions",
+        "arXiv": "1805.06887",
+        "year": "2019",
+        "journal": "EPJC",
+        "cite": "Eur. Phys. J. C79, 248 (2019)",
+        "status": "published"
+    },
+    {
+        "title": "Ionization Electron Signal Processing in Single Phase LAr TPCs II: Data/Simulation Comparison and Performance in MicroBooNE",
+        "arXiv": "1804.02583",
+        "year": "2018",
+        "journal": "JINST",
+        "cite": "JINST 13, P07007 (2018)",
+        "status": "published"
+    },
+    {
+        "title": "Ionization Electron Signal Processing in Single Phase LAr TPCs I: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation",
+        "arXiv": "1802.08709",
+        "year": "2018",
+        "journal": "JINST",
+        "cite": "JINST 13, P07006 (2018)",
+        "status": "published"
+    },
+    {
+        "title": "The Pandora Multi-Algorithm Approach to Automated Pattern Recognition of Cosmic Ray Muon and Neutrino Events in the MicroBooNE Detector",
+        "arXiv": "1708.03135",
+        "year": "2018",
+        "journal": "EPJC",
+        "cite": "Eur. Phys. J. C78, 1, 82 (2018)",
+        "status": "published"
+    },
+    {
+        "title": "Measurement of Cosmic Ray Reconstruction Efficiencies in the MicroBooNE LAr TPC Using a Small External Cosmic Ray Counter",
+        "arXiv": "1707.09903",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12, P12030 (2017)",
+        "status": "published"
+    },
+    {
+        "title": "Noise Characterization and Filtering in the MicroBooNE Liquid Argon TPC",
+        "arXiv": "1705.07341",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12, P08003 (2017)",
+        "status": "published"
+    },
+    {
+        "title": "Michel Electron Reconstruction Using Cosmic Ray Data from the MicroBooNE LArTPC",
+        "arXiv": "1704.02927",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12, P09014 (2017)",
+        "status": "published"
+    },
+    {
+        "title": "Determination of Muon Momentum in the MicroBooNE LAr TPC Using an Improved Model of Multiple Coulomb Scattering",
+        "arXiv": "1703.06187",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12 P10010 (2017)",
+        "status": "published"
+    },
+    {
+        "title": "Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber",
+        "arXiv": "1611.05531",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12, P03011 (2017)",
+        "status": "published"
+    },
+    {
+        "title": "Design and Construction of the MicroBooNE Detector",
+        "arXiv": "1612.05824",
+        "year": "2017",
+        "journal": "JINST",
+        "cite": "JINST 12, P02017 (2017)",
+        "status": "published"
+    }
+]
