@@ -1,7 +1,7 @@
 <template>
   <v-card>
     <v-card-title
-      >MicroBooNE Publications
+      > Published / Preprint Articles
       <v-spacer></v-spacer>
       <v-text-field
         v-model="search"
@@ -19,8 +19,8 @@
       item-key="arXiv"
       sort-by="arXiv"
       sort-desc
-      class="elevation-1"
       show-group-by
+      class="elevation-1"
     >
       <template v-slot:item.arXiv="{ item }">
         <a :href="'https://arxiv.org/abs/' + item.arXiv">{{ item.arXiv }}</a>
@@ -62,6 +62,11 @@ export default {
       } else {
         return item.status;
       }
+    },
+
+    info() {
+      //http://export.arxiv.org/api/query?id_list=2006.00108
+      //   https://inspirehep.net/experiments/1108254
     },
   },
 };
