@@ -32,6 +32,13 @@
 
       <v-btn
         icon
+        href="https://microboone.fnal.gov/microboone-news/"
+        target="_blank"
+        ><v-icon>mdi-newspaper</v-icon>
+      </v-btn>
+
+      <v-btn
+        icon
         href="https://inspirehep.net/experiments/1108254"
         target="_blank"
         ><v-icon>mdi-cloud-search</v-icon>
