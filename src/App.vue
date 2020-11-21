@@ -11,10 +11,30 @@
 
       <v-btn
         icon
+        href="https://microboone.fnal.gov/documents-publications/"
+        target="_blank"
+        ><v-icon>mdi-skip-backward</v-icon>
+      </v-btn>
+
+      <v-btn
+        icon
+        href="https://microboone.fnal.gov/public-notes/"
+        target="_blank"
+        ><v-icon>mdi-notebook</v-icon>
+      </v-btn>
+
+      <v-btn
+        icon
+        href="https://microboone.fnal.gov/talks-and-posters/"
+        target="_blank"
+        ><v-icon>mdi-presentation</v-icon>
+      </v-btn>
+
+      <v-btn
+        icon
         href="https://inspirehep.net/experiments/1108254"
         target="_blank"
-      >
-        <v-icon>mdi-cloud-search</v-icon>
+        ><v-icon>mdi-cloud-search</v-icon>
       </v-btn>
 
       <!-- <v-btn 
