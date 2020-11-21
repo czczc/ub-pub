@@ -17,13 +17,13 @@
         <v-icon>mdi-cloud-search</v-icon>
       </v-btn>
 
-      <v-btn 
+      <!-- <v-btn 
         icon
         href="https://github.com/czczc/ub-pub/blob/main/src/assets/publications.json"
         target="_blank"
       >
         <v-icon>mdi-pencil</v-icon>
-      </v-btn>
+      </v-btn> -->
     </v-app-bar>
 
     <v-main>
