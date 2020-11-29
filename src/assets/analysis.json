@@ -7,8 +7,8 @@
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
         "journal": "PRL",
         "status": [
-            {"stage": "2", "date-start": "2020-11-01"},
-            {"stage": "1", "date-start": "2020-06-05"}
+            {"stage": "2", "dateStart": "2020-11-01"},
+            {"stage": "1", "dateStart": "2020-06-05"}
         ]
     },
     {
@@ -19,8 +19,8 @@
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
         "journal": "PRL",
         "status": [
-            {"stage": "2", "date-start": "2020-11-01"},
-            {"stage": "1", "date-start": "2020-06-05"}
+            {"stage": "2", "dateStart": "2020-11-01"},
+            {"stage": "1", "dateStart": "2020-06-05"}
         ]
     },
     {
@@ -31,8 +31,8 @@
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
         "journal": "PRL",
         "status": [
-            {"stage": "2", "date-start": "2020-11-01"},
-            {"stage": "1", "date-start": "2020-06-05"}
+            {"stage": "2", "dateStart": "2020-11-01"},
+            {"stage": "1", "dateStart": "2020-06-05"}
         ]
     },
     {
@@ -43,8 +43,8 @@
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
         "journal": "PRL",
         "status": [
-            {"stage": "2", "date-start": "2020-11-01"},
-            {"stage": "1", "date-start": "2020-06-05"}
+            {"stage": "2", "dateStart": "2020-11-01"},
+            {"stage": "1", "dateStart": "2020-06-05"}
         ]
     }
 ]

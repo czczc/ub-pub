@@ -56,7 +56,37 @@
       </template>
 
       <template v-slot:item.updated="{ item }">
-        {{ updated(item) }}
+        <v-dialog width="500">
+          <template v-slot:activator="{ on }">
+            <v-btn text style="text-decoration: underline;" v-on="on">
+              {{ updated(item) }}
+            </v-btn>
+          </template>
+
+          <v-card>
+            <v-card-title class="headline grey lighten-2" primary-title>
+              Timeline
+            </v-card-title>
+
+            <v-timeline
+              align-top
+              dense
+              v-for="step in item.status"
+              :key="step.stage"
+            >
+              <v-timeline-item >
+                <v-layout pt-3>
+                  <v-flex xs3>
+                    <strong>{{ step.dateStart }}</strong>
+                  </v-flex>
+                  <v-flex>
+                    {{ stageText(step) }}
+                  </v-flex>       
+                </v-layout>
+              </v-timeline-item>
+            </v-timeline>
+          </v-card>
+        </v-dialog>
       </template>
     </v-data-table>
   </v-card>
@@ -79,7 +109,7 @@ export default {
         { text: "Group", value: "group" },
         { text: "Contact", value: "contact", groupable: false },
         { text: "EB", value: "EB", groupable: false },
-        { text: "Journal", value: "journal"},
+        { text: "Journal", value: "journal" },
         { text: "Status", value: "status", groupable: false },
         { text: "Last Updated", value: "updated", groupable: false },
       ],
@@ -91,28 +121,32 @@ export default {
         { stage: 4, desc: "2nd Collab Rev" },
         { stage: 5, desc: "arXiv Submitted" },
       ],
-    };
-  },
-
-  methods: {
-    stage(item) {
-      let stageDef = {
+      stageDef: {
         1: "EB established",
         2: "Int-Note Rev",
         3: "1st Collab Rev",
         4: "2nd Collab Rev",
         5: "arXiv Submitted",
-      };
+      },
+    };
+  },
+
+  methods: {
+    stage(item) {
       let code = item["status"][0]["stage"];
-      return `${code} (${stageDef[code]})`;
+      return `${code} (${this.stageDef[code]})`;
     },
 
     updated(item) {
-      return item["status"][0]["date-start"];
+      return item["status"][0]["dateStart"];
     },
 
     eb(item) {
       return item.EB.join(", ");
+    },
+
+    stageText(step) {
+      return `${this.stageDef[step.stage]}`;
     },
 
     info() {
