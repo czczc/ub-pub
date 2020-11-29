@@ -55,18 +55,25 @@
 
     <v-main>
       <Pub />
+      <p></p>
+      <Ana />
+      <p></p>
     </v-main>
+
   </v-app>
+
 </template>
 
 <script>
 import Pub from "./components/Pub";
+import Ana from "./components/Ana";
 
 export default {
   name: "App",
 
   components: {
     Pub,
+    Ana,
   },
 
   data: () => ({

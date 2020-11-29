@@ -1,0 +1,50 @@
+[
+    {
+        "docId": "27738",
+        "title": "Pandora eLEE",
+        "group": "OSC",
+        "contact": ["Roxanne Guenette"],
+        "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
+        "journal": "PRL",
+        "status": [
+            {"stage": "2", "date-start": "2020-11-01"},
+            {"stage": "1", "date-start": "2020-06-05"}
+        ]
+    },
+    {
+        "docId": "32720",
+        "title": "DL eLEE",
+        "group": "OSC",
+        "contact": ["Janet Conrad"],
+        "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
+        "journal": "PRL",
+        "status": [
+            {"stage": "2", "date-start": "2020-11-01"},
+            {"stage": "1", "date-start": "2020-06-05"}
+        ]
+    },
+    {
+        "docId": "33302",
+        "title": "Wire-Cell eLEE",
+        "group": "OSC",
+        "contact": ["Xin Qian"],
+        "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
+        "journal": "PRL",
+        "status": [
+            {"stage": "2", "date-start": "2020-11-01"},
+            {"stage": "1", "date-start": "2020-06-05"}
+        ]
+    },
+    {
+        "docId": "27768",
+        "title": "gLEE",
+        "group": "OSC",
+        "contact": ["Georgia Karagiorgi"],
+        "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
+        "journal": "PRL",
+        "status": [
+            {"stage": "2", "date-start": "2020-11-01"},
+            {"stage": "1", "date-start": "2020-06-05"}
+        ]
+    }
+]

@@ -31,6 +31,7 @@
       </template>
     </v-data-table>
   </v-card>
+
 </template>
 
 <script>
