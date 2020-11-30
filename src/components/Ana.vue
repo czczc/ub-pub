@@ -15,13 +15,13 @@
     <v-card-text>
       <v-item-group>
         <!-- <v-subheader>Stages</v-subheader> -->
-        <v-item v-for="item in stages" :key="item.stage">
+        <v-item v-for="(item, index) in stages" :key="index">
           <v-chip
             slot-scope="{ active, toggle }"
             :input-value="active"
             @click="toggle"
           >
-            {{ item.stage }}: {{ item.desc }}
+            {{ index }}: {{ item }}
           </v-chip>
         </v-item>
       </v-item-group>
@@ -58,7 +58,7 @@
       <template v-slot:item.updated="{ item }">
         <v-dialog width="500">
           <template v-slot:activator="{ on }">
-            <v-btn text style="text-decoration: underline;" v-on="on">
+            <v-btn text style="text-decoration: underline" v-on="on">
               {{ updated(item) }}
             </v-btn>
           </template>
@@ -74,14 +74,14 @@
               v-for="step in item.status"
               :key="step.stage"
             >
-              <v-timeline-item >
+              <v-timeline-item>
                 <v-layout pt-3>
                   <v-flex xs3>
                     <strong>{{ step.dateStart }}</strong>
                   </v-flex>
                   <v-flex>
                     {{ stageText(step) }}
-                  </v-flex>       
+                  </v-flex>
                 </v-layout>
               </v-timeline-item>
             </v-timeline>
@@ -115,20 +115,24 @@ export default {
       ],
       items: Analysis,
       stages: [
-        { stage: 1, desc: "EB established" },
-        { stage: 2, desc: "Int-Note Rev" },
-        { stage: 3, desc: "1st Collab Rev" },
-        { stage: 4, desc: "2nd Collab Rev" },
-        { stage: 5, desc: "arXiv Submitted" },
-      ],
-      stageDef: {
-        1: "EB established",
-        2: "Int-Note Rev",
-        3: "1st Collab Rev",
-        4: "2nd Collab Rev",
-        5: "arXiv Submitted",
-      },
+        "EB Formed", // 0
+        "Int Note Rev", // 1
+        "Style Rev", //2
+        "1st Collab Rev", // 3
+        "2nd Collab Rev", // 4
+        "arXiv Submitted", // 5
+      ]
     };
+  },
+
+  computed: {
+    stageDef() {
+      let info = {};
+      for (const [i, v] of this.stages.entries()) {
+        info[i] = v;
+      }
+      return info;
+    }
   },
 
   methods: {
