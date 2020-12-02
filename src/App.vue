@@ -32,6 +32,13 @@
 
       <v-btn
         icon
+        href="https://microboone-exp.fnal.gov/at_work/future_talks.html"
+        target="_blank"
+        ><v-icon>mdi-highway</v-icon>
+      </v-btn>
+
+      <v-btn
+        icon
         href="https://microboone.fnal.gov/microboone-news/"
         target="_blank"
         ><v-icon>mdi-newspaper</v-icon>
