@@ -60,11 +60,10 @@
       </v-btn> -->
     </v-app-bar>
 
-    <v-main>
+    <v-main class="mx-4">
       <Pub />
       <p></p>
       <Ana />
-      <p></p>
     </v-main>
 
   </v-app>
