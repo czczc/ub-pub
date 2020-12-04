@@ -16,7 +16,7 @@
       <v-item-group>
         <!-- <v-subheader>Stages</v-subheader> -->
         <v-item v-for="(item, index) in stages" :key="index">
-          <v-chip
+          <v-chip small class="mr-1 caption"
             slot-scope="{ active, toggle }"
             :input-value="active"
             @click="toggle"
