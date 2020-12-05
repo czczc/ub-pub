@@ -61,29 +61,9 @@
     </v-app-bar>
 
     <v-main class="mx-4">
-      <Pub />
-      <p></p>
-      <Ana />
+      <router-view />
     </v-main>
 
   </v-app>
 
 </template>
-
-<script>
-import Pub from "./components/Pub";
-import Ana from "./components/Ana";
-
-export default {
-  name: "App",
-
-  components: {
-    Pub,
-    Ana,
-  },
-
-  data: () => ({
-    //
-  }),
-};
-</script>
