@@ -5,7 +5,7 @@
         "group": "OSC",
         "contact": ["Roxanne Guenette"],
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
-        "journal": "PRL",
+        "journal": "TBD",
         "status": [
             {"stage": "1", "dateStart": "2020-11-01"},
             {"stage": "0", "dateStart": "2020-06-05"}
@@ -17,7 +17,7 @@
         "group": "OSC",
         "contact": ["Janet Conrad"],
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
-        "journal": "PRL",
+        "journal": "TBD",
         "status": [
             {"stage": "1", "dateStart": "2020-11-01"},
             {"stage": "0", "dateStart": "2020-06-05"}
@@ -29,7 +29,7 @@
         "group": "OSC",
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "journal": "PRL",
+        "journal": "TBD",
         "status": [
             {"stage": "1", "dateStart": "2020-11-01"},
             {"stage": "0", "dateStart": "2020-06-05"}
@@ -41,7 +41,7 @@
         "group": "OSC",
         "contact": ["Georgia Karagiorgi"],
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
-        "journal": "PRL",
+        "journal": "TBD",
         "status": [
             {"stage": "1", "dateStart": "2020-11-01"},
             {"stage": "0", "dateStart": "2020-06-05"}

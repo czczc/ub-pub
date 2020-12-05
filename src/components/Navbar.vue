@@ -1,6 +1,7 @@
 <template>
+<nav>
   <v-app-bar app color="primary" dense dark>
-    <v-app-bar-nav-icon></v-app-bar-nav-icon>
+    <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
 
     <v-toolbar-title>MicroBooNE Publications</v-toolbar-title>
 
@@ -55,4 +56,39 @@
         <v-icon>mdi-pencil</v-icon>
       </v-btn> -->
   </v-app-bar>
+
+  <v-navigation-drawer app v-model="drawer" dark color="secondary">
+      <v-list>
+        <v-list-item-group v-for="link in links" :key="link.text">          
+          <v-list-item :to="link.route">
+            <v-list-item-title>{{link.text}}</v-list-item-title>
+            <v-list-item-icon> <v-icon>{{link.icon}}</v-icon> </v-list-item-icon>
+          </v-list-item>
+
+          <!-- <v-list-item to="/internal">
+            <v-list-item-title>Internal</v-list-item-title>
+            <v-list-item-icon> <v-icon>mdi-home-import-outline</v-icon> </v-list-item-icon>
+          </v-list-item>
+          <v-divider></v-divider> -->
+
+        </v-list-item-group>
+      </v-list>
+  </v-navigation-drawer>
+
+</nav>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      drawer: false,
+      links: [
+        { icon: 'mdi-home', text: 'Home', route: '/' },
+        { icon: 'mdi-home-import-outline', text: 'Internal', route: '/internal' },
+      ]
+    }
+  }
+}
+</script>
+
