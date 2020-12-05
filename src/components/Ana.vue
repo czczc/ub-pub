@@ -1,5 +1,5 @@
 <template>
-  <v-card flat class="my-4">
+  <v-card flat class="mb-4">
     <v-card-title>
       Internal Analysis
       <v-spacer></v-spacer>

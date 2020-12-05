@@ -1,5 +1,5 @@
 <template>
-  <v-card flat>
+  <v-card flat class="mb-4">
     <v-card-title
       > Published / Preprint Articles
       <v-spacer></v-spacer>
