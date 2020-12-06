@@ -9,89 +9,21 @@
 
       <!-- https://cdn.materialdesignicons.com/5.4.55/ -->
 
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://microboone.fnal.gov/documents-publications/"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-skip-backward</v-icon>
-          </v-btn>
-        </template>
-      <span>Another version</span>
-      </v-tooltip>
-
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://microboone.fnal.gov/public-notes/"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-notebook</v-icon>
-          </v-btn>
-        </template>
-      <span>Public Notes</span>
-      </v-tooltip>
-
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://microboone.fnal.gov/talks-and-posters/"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-presentation</v-icon>
-          </v-btn>
-        </template>
-      <span>Past Talks</span>
-      </v-tooltip>
-
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://microboone-exp.fnal.gov/at_work/future_talks.html"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-highway</v-icon>
-          </v-btn>
-        </template>
-      <span>Future Talks</span>
-      </v-tooltip>
-
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://microboone.fnal.gov/microboone-news/"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-newspaper</v-icon>
-          </v-btn>
-        </template>
-      <span>Media News</span>
-      </v-tooltip>
-
-      <v-tooltip bottom>
-        <template v-slot:activator="{ on, attrs }">
-          <v-btn
-            icon
-            href="https://inspirehep.net/experiments/1108254"
-            target="_blank"
-            v-bind="attrs"
-            v-on="on"
-            ><v-icon>mdi-cloud-search</v-icon>
-          </v-btn>
-        </template>
-      <span>Search on Inspire</span>
-      </v-tooltip>
+      <div v-for="link in externals" :key="link.url">
+        <v-tooltip bottom>
+          <template v-slot:activator="{ on, attrs }">
+            <v-btn
+              icon
+              :href="link.url"
+              target="_blank"
+              v-bind="attrs"
+              v-on="on"
+              ><v-icon>{{ link.icon }}</v-icon>
+            </v-btn>
+          </template>
+          <span>{{ link.text }}</span>
+        </v-tooltip>
+      </div>
 
       <!-- <v-btn 
         icon
@@ -128,6 +60,38 @@ export default {
           icon: "mdi-home-import-outline",
           text: "Internal",
           route: "/internal",
+        },
+      ],
+      externals: [
+        {
+          url: "https://microboone.fnal.gov/documents-publications/",
+          icon: "mdi-skip-backward",
+          text: "Another Version",
+        },
+        {
+          url: "https://microboone.fnal.gov/public-notes/",
+          icon: "mdi-notebook",
+          text: "Public Notes",
+        },
+        {
+          url: "https://microboone.fnal.gov/talks-and-posters/",
+          icon: "mdi-presentation",
+          text: "Past Talks",
+        },
+        {
+          url: "https://microboone-exp.fnal.gov/at_work/future_talks.html",
+          icon: "mdi-highway",
+          text: "Future Talks",
+        },
+        {
+          url: "https://microboone.fnal.gov/microboone-news/",
+          icon: "mdi-newspaper",
+          text: "Media News",
+        },
+        {
+          url: "https://inspirehep.net/experiments/1108254",
+          icon: "mdi-cloud-search",
+          text: "Search on Inspire",
         },
       ],
     };
