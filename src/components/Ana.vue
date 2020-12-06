@@ -31,6 +31,7 @@
       :headers="headers"
       :items="items"
       :search="search"
+      :footer-props="{'items-per-page-options':[-1, 20]}"
       item-key="docId"
       sort-by="docId"
       sort-desc
