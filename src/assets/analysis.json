@@ -7,8 +7,7 @@
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
         "journal": "TBD",
         "status": [
-            {"stage": "1", "dateStart": "2020-11-01"},
-            {"stage": "0", "dateStart": "2020-06-05"}
+            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
     },
     {
@@ -19,8 +18,7 @@
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
         "journal": "TBD",
         "status": [
-            {"stage": "1", "dateStart": "2020-11-01"},
-            {"stage": "0", "dateStart": "2020-06-05"}
+            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
     },
     {
@@ -31,8 +29,7 @@
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
         "journal": "TBD",
         "status": [
-            {"stage": "1", "dateStart": "2020-11-01"},
-            {"stage": "0", "dateStart": "2020-06-05"}
+            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
     },
     {
@@ -43,8 +40,7 @@
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
         "journal": "TBD",
         "status": [
-            {"stage": "1", "dateStart": "2020-11-01"},
-            {"stage": "0", "dateStart": "2020-06-05"}
+            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
     },
     {
@@ -55,12 +51,12 @@
         "EB": ["Chao Zhang", "Kazuhiro Terao"],
         "journal": "PRD",
         "status": [
-            {"stage": "5", "dateStart": "2020-10-23"},
-            {"stage": "4", "dateStart": "2020-10-02"},
-            {"stage": "3", "dateStart": "2020-08-21"},
-            {"stage": "2", "dateStart": "2020-07-27"},
-            {"stage": "1", "dateStart": "2020-04-23"},
-            {"stage": "0", "dateStart": "2020-04-15"}
+            {"stage": "5", "dateStart": "2020-10-23", "dateDue": "", "dateEnd": ""},
+            {"stage": "4", "dateStart": "2020-10-02", "dateDue": "", "dateEnd": ""},
+            {"stage": "3", "dateStart": "2020-08-21", "dateDue": "", "dateEnd": ""},
+            {"stage": "2", "dateStart": "2020-07-27", "dateDue": "", "dateEnd": ""},
+            {"stage": "1", "dateStart": "2020-07-15", "dateDue": "", "dateEnd": ""},
+            {"stage": "0", "dateStart": "2020-04-23", "dateDue": "", "dateEnd": ""}
         ]
     }
 ]

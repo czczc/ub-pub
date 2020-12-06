@@ -115,12 +115,13 @@ export default {
       ],
       items: Analysis,
       stages: [
-        "EB Formed", // 0
-        "Int Note Rev", // 1
+        "EB Rev", // 0
+        "Group Rev", // 1
         "Style Rev", //2
         "1st Collab Rev", // 3
         "2nd Collab Rev", // 4
         "arXiv Submitted", // 5
+        "Journal Rev", // 6
       ]
     };
   },
