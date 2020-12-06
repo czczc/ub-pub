@@ -61,7 +61,7 @@
       </template>
 
       <template v-slot:item.updated="{ item }">
-        <v-dialog width="600">
+        <v-dialog width="800">
           <template v-slot:activator="{ on }">
             <v-btn text style="text-decoration: underline" v-on="on">
               {{ updated(item) }}
@@ -93,8 +93,8 @@
                     {{ step.dateEnd }}
                   </v-flex>
                   <v-flex md3>
-                    <span>Due</span><br />
-                    {{ step.dateDue }}
+                    <span>{{ dueText(step) }}</span><br />
+                    <span class="red--text darken-1">{{ step.dateDue }}</span>
                   </v-flex>
                 </v-layout>
               </v-timeline-item>
@@ -168,12 +168,13 @@ export default {
       let code = item["status"][0]["stage"];
       let dateEnd = item["status"][0]["dateEnd"];
       let dateDue = item["status"][0]["dateDue"];
+      let whatIsDue = item["status"][0]["whatIsDue"];
       let text = `${code}) ${this.stageDef[code]}`;
-      if (dateEnd && dateEnd != "") {
-        text += " ended";
+      if (dateDue && dateDue != "") {
+        text += ` due (${whatIsDue})`;
       }
-      else if (dateDue && dateDue != "") {
-        text += " due";
+      else if (dateEnd && dateEnd != "") {
+        text += " ended";
       }
       else {
         text += " started";
@@ -208,6 +209,16 @@ export default {
 
     stageText(step) {
       return `${this.stageDef[step.stage]}`;
+    },
+
+    dueText(step) {
+      let dateDue = step.dateDue;
+      let whatIsDue = step.whatIsDue;
+      let text = ""
+      if (dateDue && dateDue != "") {
+        text += `Due (${whatIsDue})`;
+      }
+      return text;
     },
 
     info() {

@@ -8,7 +8,7 @@
         "journal": "PRD",
         "RI":[],
         "status": [
-            {"stage": "3", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-11-16"}
+            {"stage": "3", "dateStart": "2020-11-15", "dateEnd": "2020-11-16", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -20,7 +20,7 @@
         "journal": "PRD",
         "RI":[],
         "status": [
-            {"stage": "4", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-12-04"}
+            {"stage": "4", "dateStart": "2020-11-15", "dateEnd": "2020-12-04", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -32,7 +32,7 @@
         "journal": "JINST",
         "RI":[],
         "status": [
-            {"stage": "4", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-12-04"}
+            {"stage": "4", "dateStart": "2020-11-15", "dateEnd": "2020-12-04", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -44,7 +44,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
+            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -56,7 +56,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
+            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -68,7 +68,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
+            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -80,7 +80,7 @@
         "journal": "JINST",
         "RI":[],
         "status": [
-            {"stage": "5", "dateStart": "2020-11-02", "dateDue": "", "dateEnd": ""}
+            {"stage": "5", "dateStart": "2020-11-02", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -92,7 +92,7 @@
         "journal": "PRD",
         "RI":["LANL"],
         "status": [
-            {"stage": "4", "dateStart": "2020-11-10", "dateDue": "", "dateEnd": "2020-11-24"}
+            {"stage": "4", "dateStart": "2020-11-10", "dateEnd": "2020-11-24", "dateDue": "2020-11-27", "whatIsDue":"journal sub."}
         ]
     },
     {
@@ -104,7 +104,7 @@
         "journal": "PRL",
         "RI":["LANL"],
         "status": [
-            {"stage": "4", "dateStart": "2020-11-10", "dateDue": "", "dateEnd": "2020-11-24"}
+            {"stage": "4", "dateStart": "2020-11-10", "dateEnd": "2020-11-24", "dateDue": "2020-11-27", "whatIsDue":"journal sub."}
         ]
     },
     {
@@ -116,7 +116,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
+            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -128,12 +128,12 @@
         "journal": "PRD",
         "RI":[],
         "status": [
-            {"stage": "5", "dateStart": "2020-10-23", "dateDue": "", "dateEnd": ""},
-            {"stage": "4", "dateStart": "2020-10-02", "dateDue": "", "dateEnd": ""},
-            {"stage": "3", "dateStart": "2020-08-21", "dateDue": "", "dateEnd": ""},
-            {"stage": "2", "dateStart": "2020-07-27", "dateDue": "", "dateEnd": ""},
-            {"stage": "1", "dateStart": "2020-07-15", "dateDue": "", "dateEnd": ""},
-            {"stage": "0", "dateStart": "2020-04-23", "dateDue": "", "dateEnd": ""}
+            {"stage": "5", "dateStart": "2020-10-23", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "4", "dateStart": "2020-10-02", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "3", "dateStart": "2020-08-21", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "2", "dateStart": "2020-07-27", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "1", "dateStart": "2020-07-15", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "0", "dateStart": "2020-04-23", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     }
 ]
