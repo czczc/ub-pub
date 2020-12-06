@@ -1,11 +1,48 @@
 [
     {
+        "docId": "31050",
+        "title": "NuMI nue inclusive",
+        "group": "XS",
+        "contact": ["Krishan Mistry"],
+        "EB": ["Zachary Williams"],
+        "journal": "PRD",
+        "RI":[],
+        "status": [
+            {"stage": "3", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-11-16"}
+        ]
+    },
+    {
+        "docId": "32207",
+        "title": "Sparse SSNet",
+        "group": "RECO",
+        "contact": ["Ran Itay"],
+        "EB": ["Mike Kirby", "Brett Viren"],
+        "journal": "PRD",
+        "RI":[],
+        "status": [
+            {"stage": "4", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-12-04"}
+        ]
+    },
+    {
+        "docId": "23662",
+        "title": "Cosmic muon rate",
+        "group": "APE",
+        "contact": ["Wouter Van de pontseele"],
+        "EB": ["Andrew Furmanski", "David Martinez"],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "4", "dateStart": "2020-11-15", "dateDue": "", "dateEnd": "2020-12-04"}
+        ]
+    },
+    {
         "docId": "27738",
         "title": "Pandora eLEE",
         "group": "OSC",
         "contact": ["Roxanne Guenette"],
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
         "journal": "TBD",
+        "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
@@ -17,6 +54,7 @@
         "contact": ["Janet Conrad"],
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
         "journal": "TBD",
+        "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
@@ -28,8 +66,45 @@
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
         "journal": "TBD",
+        "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
+        ]
+    },
+    {
+        "docId": "28632",
+        "title": "Wire-Cell 3D reco",
+        "group": "RECO",
+        "contact": ["Xiangpan Ji", "Hanyu Wei"],
+        "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "5", "dateStart": "2020-11-02", "dateDue": "", "dateEnd": ""}
+        ]
+    },
+    {
+        "docId": "27695",
+        "title": "Wire-Cell generic nu selection",
+        "group": "OSC",
+        "contact": ["Jay Hyun Jo", "Hanyu Wei"],
+        "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
+        "journal": "PRD",
+        "RI":["LANL"],
+        "status": [
+            {"stage": "4", "dateStart": "2020-11-10", "dateDue": "", "dateEnd": "2020-11-24"}
+        ]
+    },
+    {
+        "docId": "27695",
+        "title": "Wire-Cell generic nu selection",
+        "group": "OSC",
+        "contact": ["Hanyu Wei", "Jay Hyun Jo"],
+        "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
+        "journal": "PRL",
+        "RI":["LANL"],
+        "status": [
+            {"stage": "4", "dateStart": "2020-11-10", "dateDue": "", "dateEnd": "2020-11-24"}
         ]
     },
     {
@@ -39,17 +114,19 @@
         "contact": ["Georgia Karagiorgi"],
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
         "journal": "TBD",
+        "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-06-05", "dateDue": "", "dateEnd": ""}
         ]
     },
     {
         "docId": "30832",
-        "title": "CNN-MPID",
+        "title": "CNN MPID",
         "group": "RECO",
         "contact": ["Rui An"],
         "EB": ["Chao Zhang", "Kazuhiro Terao"],
         "journal": "PRD",
+        "RI":[],
         "status": [
             {"stage": "5", "dateStart": "2020-10-23", "dateDue": "", "dateEnd": ""},
             {"stage": "4", "dateStart": "2020-10-02", "dateDue": "", "dateEnd": ""},

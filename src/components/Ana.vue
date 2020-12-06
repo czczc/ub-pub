@@ -47,16 +47,20 @@
         >
       </template>
 
+      <template v-slot:item.contact="{ item }">
+        {{ contact(item) }}
+      </template>
+
       <template v-slot:item.EB="{ item }">
         {{ eb(item) }}
       </template>
 
       <template v-slot:item.status="{ item }">
-        {{ stage(item) }}
+        <span class="darken-1">{{ stage(item) }}</span>
       </template>
 
       <template v-slot:item.updated="{ item }">
-        <v-dialog width="500">
+        <v-dialog width="600">
           <template v-slot:activator="{ on }">
             <v-btn text style="text-decoration: underline" v-on="on">
               {{ updated(item) }}
@@ -65,7 +69,7 @@
 
           <v-card>
             <v-card-title class="headline grey lighten-2" primary-title>
-              Timeline
+              Timeline ({{item.title}})
             </v-card-title>
 
             <v-timeline
@@ -76,15 +80,38 @@
             >
               <v-timeline-item>
                 <v-layout pt-3>
-                  <v-flex xs3>
-                    <strong>{{ step.dateStart }}</strong>
-                  </v-flex>
-                  <v-flex>
+                  <v-flex md3 class="teal--text darken-1">
                     {{ stageText(step) }}
+                  </v-flex>
+                  <v-flex md3>
+                    <span>Start</span><br />
+                    {{ step.dateStart }}
+                  </v-flex>
+                  <v-flex md3>
+                    <span>End</span><br />
+                    {{ step.dateEnd }}
+                  </v-flex>
+                  <v-flex md3>
+                    <span>Due</span><br />
+                    {{ step.dateDue }}
                   </v-flex>
                 </v-layout>
               </v-timeline-item>
             </v-timeline>
+            <v-simple-table style="border-top:1px">
+              <tbody>
+                <tr>
+                  <td>Contact</td><td>{{contact(item)}}</td>
+                </tr>
+                <tr>
+                  <td>EB</td><td>{{eb(item)}}</td>
+                </tr>
+                <tr>
+                  <td>Reading Institute</td><td>{{ri(item)}}</td>
+                </tr>
+              </tbody>
+            </v-simple-table>
+
           </v-card>
         </v-dialog>
       </template>
@@ -120,8 +147,7 @@ export default {
         "Style Rev", //2
         "1st Collab Rev", // 3
         "2nd Collab Rev", // 4
-        "arXiv Submitted", // 5
-        "Journal Rev", // 6
+        "Journal Rev", // 5
       ]
     };
   },
@@ -139,15 +165,44 @@ export default {
   methods: {
     stage(item) {
       let code = item["status"][0]["stage"];
-      return `${code} (${this.stageDef[code]})`;
+      let dateEnd = item["status"][0]["dateEnd"];
+      let dateDue = item["status"][0]["dateDue"];
+      let text = `${code}) ${this.stageDef[code]}`;
+      if (dateEnd && dateEnd != "") {
+        text += " ended";
+      }
+      else if (dateDue && dateDue != "") {
+        text += " due";
+      }
+      else {
+        text += " started";
+      }
+      return text;
     },
 
     updated(item) {
-      return item["status"][0]["dateStart"];
+      let text = item["status"][0]["dateStart"];
+      let dateEnd = item["status"][0]["dateEnd"];
+      if (dateEnd && dateEnd != "") {
+        text = dateEnd;
+      }
+      return text;
     },
 
     eb(item) {
       return item.EB.join(", ");
+    },
+
+    contact(item) {
+      return item.contact.join(", ");
+    },
+
+    ri(item) {
+      let text = "";
+      if (item.RI) {
+        text = item.RI.join(", ");
+      }
+      return text;
     },
 
     stageText(step) {
