@@ -137,6 +137,7 @@ export default {
         { text: "Group", value: "group" },
         { text: "Contact", value: "contact", groupable: false },
         { text: "EB", value: "EB", groupable: false },
+        { text: "PC", value: "PC", groupable: false },
         { text: "Journal", value: "journal" },
         { text: "Status", value: "status", groupable: false },
         { text: "Last Updated", value: "updated", groupable: false },
