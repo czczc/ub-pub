@@ -19,7 +19,9 @@ The json file that need to be updated is
 
 The fields are mostly self-explanatory or can be inferred from the other existing entries. The json file can be edited directly in the browser (using the pen icon that says "edit this file" ) and then committed. The best way to add a new entry is to copy an old entry, paste onto the top, and start editing from there.
 
-The most often error one could encouter is forgetting or adding extra commas in the json file, since the json format is quite strict in that way (e.g. the last element before the closing bracket can not have a comma). One way to avoid these errors is to use an online validator, such as [this one](https://jsonformatter.curiousconcept.com/#), to ensure the entered content is in a valid format before committing.
+The only required field for each entry is the **docId** field. The app use it as a “primary key”. If it’s missing, it may cause some weird issues when sorting or grouping the table. You can use any docdb entry that’s related to the analysis at the beginning, and you can update them later when the analysis has a central document such as an internal note or paper draft. We suggest placing all related documents, or links to them, in this docdb entry as a central hub for the analysis.
+
+The most often error one could encounter is forgetting or adding extra commas in the json file, since the json format is quite strict in that way (e.g. the last element before the closing bracket can not have a trailing comma). One way to avoid these errors is to use an online validator, such as [this one](https://jsonformatter.curiousconcept.com/#), to ensure the entered content is in a valid format before committing.
 
 For the internal analysis, the `status` field can log multiple stages as the analysis proceeds. For example, the following entry logs two stages with their starting dates (starting date is required, other dates are optional) recorded.
 ```json
@@ -48,7 +50,7 @@ For people who are not afraid of technical stuff, you can also run the app on yo
 npm install
 npm run serve    
 ```
-You should then be able to visit http://localhost:8080/ and see the webpage. You can then preview any changes you made, and after you commit and push the changes, and the new content will show up within one hour.
+You should then be able to visit http://localhost:8080/ and see the webpage. You can then preview any changes you made, commit and push the changes, and the new content will show up within one hour.
 
 Finally, the web app is developed using [Vue.js](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/en/). 
 
