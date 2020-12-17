@@ -144,8 +144,8 @@ export default {
       ],
       items: Analysis,
       stages: [
-        "EB Rev", // 0
-        "Group Rev", // 1
+        "Analysis", // 0
+        "EB/Group Rev", // 1
         "Style Rev", //2
         "1st Collab Rev", // 3
         "2nd Collab Rev", // 4
