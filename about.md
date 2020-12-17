@@ -16,11 +16,12 @@ The web app is set up such that all information is save in a single json file, w
 The json file that need to be updated is
 * published articles:  https://github.com/czczc/ub-pub/blob/main/src/assets/publications.json
 * internal analysis: https://github.com/czczc/ub-pub/blob/main/src/assets/analysis.json
-The fields are mostly self-explanatory or can be inferred from the other existing entries. This file can be edited directly in the browser (using the pen icon that says "edit this file" ) and then committed. The best way to add a new entry is to copy an old entry, paste onto the top, and start editing from there.
 
-The most often error one could encouter is forgetting or adding extra commas in the json file, since the json format is quite strict in that way (e.g. the last element before the closing bracket can not have a comma). One way to avoid these errors is to use an online validator, such as [this one](https://jsonformatter.curiousconcept.com/#), to ensure everything is entered correctly before committing.
+The fields are mostly self-explanatory or can be inferred from the other existing entries. The json file can be edited directly in the browser (using the pen icon that says "edit this file" ) and then committed. The best way to add a new entry is to copy an old entry, paste onto the top, and start editing from there.
 
-For the internal analysis, the `status` field can log multiple stages as the analysis proceeds. For example, the following entry logs two stages with their starting dates (starting date is required, other dates are optional).
+The most often error one could encouter is forgetting or adding extra commas in the json file, since the json format is quite strict in that way (e.g. the last element before the closing bracket can not have a comma). One way to avoid these errors is to use an online validator, such as [this one](https://jsonformatter.curiousconcept.com/#), to ensure the entered content is in a valid format before committing.
+
+For the internal analysis, the `status` field can log multiple stages as the analysis proceeds. For example, the following entry logs two stages with their starting dates (starting date is required, other dates are optional) recorded.
 ```json
 "status": [
     {"stage": "5", "dateStart": "2020-10-23", "dateEnd": "", "dateDue": "2020-12-15", "whatIsDue":"1st Ref reply"},
@@ -28,17 +29,18 @@ For the internal analysis, the `status` field can log multiple stages as the ana
 ]
 ```
 Currently, the status stages are defined as follows:
-0. Analysis: from the analysis (once it's mature enough toward a publication) started until before the official EB review started (EB is assigned in this stage).
-1. EB / Group review: from the official EB review started until the group conveners sign off.
-2. Style Review
-3. 1st collaboration review
-4. 2nd collaboration review
-5. Journal review: from the paper submitted to arXiv until the paper is published.
 
-Each stage can also have a "dateDue" and a "whatIsDue" field, which is meant to be used to remind the upcoming deadlines. For example, during the "Analysis" stage, you could have a "Assign EB" deadline, or a "internal note due" deadline, etc. The due date and content will show up in the status and timeline display on the web page.
+0. **Analysis**: from the analysis (once it's mature enough toward a publication) started until before the official EB review started (EB is assigned in this stage).
+1. **EB / Group review**: from the official EB review started until the group conveners sign off.
+2. **Style Review**
+3. **1st collaboration review**
+4. **2nd collaboration review**
+5. **Journal review**: from the paper submitted to arXiv until the paper is published.
+
+Each stage can also have a "dateDue" and a "whatIsDue" field, which is meant to be used to remind the upcoming deadlines. For example, during the "Analysis" stage, you could have an "assign EB" deadline, or an "internal note due" deadline, etc. The due date and content will show up in the status and timeline display on the web page.
 
 
-### How to run it on a local server
+### How to run the app locally
 
 For people who are not afraid of technical stuff, you can also run the app on your local computer. This way you can update the json file and preview the content before you push the changes to the github. You need to have [NodeJS](https://nodejs.org/en/) installed on your local computer first. Then, after cloning this git repo, do
 
