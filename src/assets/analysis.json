@@ -1,5 +1,31 @@
 [
     {
+        "docId": "32678",
+        "title": "Likelihood-based PID",
+        "group": "RECO",
+        "contact": ["Nicolo Foppiani"],
+        "EB": ["Melissa Uchida", "Mark Convery"],
+        "PC": [],
+        "journal": "JHEP?",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-12-16", "dateEnd": "", "dateDue": "2020-12-30", "whatIsDue":"2nd EB review started"}
+        ]
+    },
+    {
+        "docId": "33260",
+        "title": "DL shower reco",
+        "group": "RECO",
+        "contact": ["Katie Mason, Nick Kamp"],
+        "EB": ["Michael Mooney", "Randy Johnson"],
+        "PC": [],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-12-02", "dateEnd": "", "dateDue": "2020-12-16", "whatIsDue":"EB review"}
+        ]
+    },
+    {
         "docId": "31050",
         "title": "NuMI nue inclusive",
         "group": "XS",
@@ -22,6 +48,7 @@
         "journal": "PRD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2020-12-17", "dateEnd": "", "dateDue": "", "whatIsDue":"Journal Rev started"},
             {"stage": "4", "dateStart": "2020-11-15", "dateEnd": "2020-12-04", "dateDue": "", "whatIsDue":""}
         ]
     },
