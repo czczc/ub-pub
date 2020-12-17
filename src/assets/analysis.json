@@ -148,7 +148,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "28163",
         "title": "CCpi0 xsec",
         "group": "XS",
         "contact": ["Supraja Balasubramanian, Joel Mousseau"],
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "33558",
         "title": "NuMI nue CCNp xsec",
         "group": "XS",
         "contact": ["Katrina Miller"],
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "33050",
         "title": "GENIE Tuning",
         "group": "XS",
         "contact": ["Kirsty Duffy, Steven Gardiner, Richie Diurba, Steve Dytman"],
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "33053",
         "title": "CC1mu1p STV",
         "group": "XS",
         "contact": ["Afro Papadopoulou"],
