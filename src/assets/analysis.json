@@ -146,5 +146,58 @@
             {"stage": "1", "dateStart": "2020-07-15", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-04-23", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
+    },
+    {
+        "docId": "",
+        "title": "CCpi0 xsec",
+        "group": "XS",
+        "contact": ["Supraja Balasubramanian, Joel Mousseau"],
+        "EB": ["Andy Mastbaum", "Yun-Tse Tsai"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-11-01", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "0", "dateStart": "2020-06-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "NuMI nue CCNp xsec",
+        "group": "XS",
+        "contact": ["Katrina Miller"],
+        "EB": ["Jonathan Asaadi", "Xiao Luo"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "GENIE Tuning",
+        "group": "XS",
+        "contact": ["Kirsty Duffy, Steven Gardiner, Richie Diurba, Steve Dytman"],
+        "EB": ["Or Hen", "Jaroslaw Novak"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "CC1mu1p STV",
+        "group": "XS",
+        "contact": ["Afro Papadopoulou"],
+        "EB": ["Anne Schukraft", "Stephen Pate"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2020-10-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
     }
 ]
