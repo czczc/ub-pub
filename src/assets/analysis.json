@@ -1,5 +1,18 @@
 [
     {
+        "docId": "32678",
+        "title": "Likelihood-based PID",
+        "group": "RECO",
+        "contact": ["Nicolo Foppiani"],
+        "EB": ["Melissa Uchida", "Mark Convery"],
+        "PC": [],
+        "journal": "JHEP?",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-12-16", "dateEnd": "", "dateDue": "2020-12-30", "whatIsDue":"2nd EB review"}
+        ]
+    },
+    {
         "docId": "33260",
         "title": "DL shower reco",
         "group": "RECO",
@@ -213,7 +226,7 @@
         "status": [
             {"stage": "0", "dateStart": "2020-10-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
-    }
+    },
     {
         "docId": "33555",
         "title": "Longitudinal Diffusion",
@@ -230,7 +243,7 @@
     {
         "docId": "30823",
         "title": "Wiremod Systematics",
-        "group": "DPCG",
+        "group": "DPC",
         "contact": ["Lauren Yates"],
         "EB": ["Andy Mastbaum, Donna Naples"],
         "PC": [],
@@ -239,5 +252,5 @@
         "status": [
             {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
-    },
+    }
 ]
