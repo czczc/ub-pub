@@ -1,5 +1,18 @@
 [
     {
+        "docId": "31363",
+        "title": "Higgs Portal Scalar",
+        "group": "APE",
+        "contact": ["Pawel Guzowski"],
+        "EB": ["Mary Bishai", "Bruce Baller"],
+        "PC": [],
+        "journal": "PRL?",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":"EB review"}
+        ]
+    },
+    {
         "docId": "32678",
         "title": "Likelihood-based PID",
         "group": "RECO",
