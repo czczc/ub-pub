@@ -242,6 +242,45 @@
         ]
     },
     {
+        "docId": "31874",
+        "title": "CC1pi+",
+        "group": "XS",
+        "contact": ["Andrew Smith", "Kirsty Duffy"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33534",
+        "title": "WireCell Inclusive Cross Section",
+        "group": "XS",
+        "contact": ["Xin Qian"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33540",
+        "title": "eta measurement",
+        "group": "XS",
+        "contact": ["David Caratelli"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "33555",
         "title": "Longitudinal Diffusion",
         "group": "DPC",
