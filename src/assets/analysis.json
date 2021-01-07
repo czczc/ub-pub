@@ -52,6 +52,20 @@
         ]
     },
     {
+        "docId": "32207",
+        "title": "Sparse SSNet",
+        "group": "RECO",
+        "contact": ["Ran Itay"],
+        "EB": ["Mike Kirby", "Brett Viren"],
+        "PC": [],
+        "journal": "PRD",
+        "RI":[],
+        "status": [
+            {"stage": "5", "dateStart": "2020-12-17", "dateEnd": "", "dateDue": "", "whatIsDue":"Journal Rev started"},
+            {"stage": "4", "dateStart": "2020-11-15", "dateEnd": "2020-12-04", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "23662",
         "title": "Cosmic muon rate",
         "group": "APE",
