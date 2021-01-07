@@ -1,5 +1,18 @@
 [
     {
+        "docId": "31363",
+        "title": "Higgs Portal Scalar",
+        "group": "APE",
+        "contact": ["Pawel Guzowski"],
+        "EB": ["Mary Bishai", "Bruce Baller"],
+        "PC": [],
+        "journal": "PRL?",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":"EB review"}
+        ]
+    },
+    {
         "docId": "32678",
         "title": "Likelihood-based PID",
         "group": "RECO",
@@ -9,7 +22,7 @@
         "journal": "JHEP?",
         "RI":[],
         "status": [
-            {"stage": "1", "dateStart": "2020-12-16", "dateEnd": "", "dateDue": "2020-12-30", "whatIsDue":"2nd EB review started"}
+            {"stage": "1", "dateStart": "2020-12-16", "dateEnd": "", "dateDue": "2020-12-30", "whatIsDue":"2nd EB review"}
         ]
     },
     {
@@ -48,6 +61,7 @@
         "journal": "JINST",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2020-12-22", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "4", "dateStart": "2020-11-15", "dateEnd": "2020-12-04", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -61,7 +75,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -74,7 +88,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -87,7 +101,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -139,7 +153,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -211,6 +225,71 @@
         "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-10-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "31874",
+        "title": "CC1pi+",
+        "group": "XS",
+        "contact": ["Andrew Smith", "Kirsty Duffy"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33534",
+        "title": "WireCell Inclusive Cross Section",
+        "group": "XS",
+        "contact": ["Xin Qian"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33540",
+        "title": "eta measurement",
+        "group": "XS",
+        "contact": ["David Caratelli"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33555",
+        "title": "Longitudinal Diffusion",
+        "group": "DPC",
+        "contact": ["Andrew Mogan"],
+        "EB": ["Michelle Stancari, Bruce Baller"],
+        "PC": [],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2020-11-05", "dateEnd": "", "dateDue": "", "whatIsDue":"EB review"}
+        ]
+    }, 
+    {
+        "docId": "30823",
+        "title": "Wiremod Systematics",
+        "group": "DPC",
+        "contact": ["Lauren Yates"],
+        "EB": ["Andy Mastbaum, Donna Naples"],
+        "PC": [],
+        "journal": "EPJ C",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     }
 ]
