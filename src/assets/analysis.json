@@ -1,4 +1,17 @@
-[
+[    {
+        "docId": "32401",
+        "title": "NuMI nue inclusive differential",
+        "group": "XS",
+        "contact": ["Krishan Mistry"],
+        "EB": ["Joseph Zennamo", "Bryce Littlejohn"],
+        "PC": [],
+        "journal": "PRD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2020-09-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+
     {
         "docId": "31363",
         "title": "Higgs Portal Scalar",
