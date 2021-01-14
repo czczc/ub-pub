@@ -155,7 +155,8 @@
         "journal": "PRD",
         "RI":["LANL"],
         "status": [
-            {"stage": "4", "dateStart": "2020-11-10", "dateEnd": "2020-11-24", "dateDue": "2020-11-27", "whatIsDue":"journal sub."}
+            {"stage": "5", "dateStart": "2021-01-13", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "4", "dateStart": "2020-11-10", "dateEnd": "2020-11-24", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -168,7 +169,7 @@
         "journal": "PRL",
         "RI":["LANL"],
         "status": [
-            {"stage": "5", "dateStart": "2020-12-15", "dateEnd": "", "dateDue": "2020-12-15", "whatIsDue":"PRL sub."}
+            {"stage": "5", "dateStart": "2020-12-15", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
