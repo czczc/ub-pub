@@ -11,14 +11,13 @@
             {"stage": "0", "dateStart": "2020-09-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
-
     {
         "docId": "31363",
         "title": "Higgs Portal Scalar",
         "group": "APE",
         "contact": ["Pawel Guzowski"],
         "EB": ["Mary Bishai", "Bruce Baller"],
-        "PC": [],
+        "PC": ["Melissa Uchida", "Mitch Soderberg"],
         "journal": "PRL?",
         "RI":[],
         "status": [
@@ -31,7 +30,7 @@
         "group": "RECO",
         "contact": ["Nicolo Foppiani"],
         "EB": ["Melissa Uchida", "Mark Convery"],
-        "PC": [],
+        "PC": ["Jose Crespo", "Chao Zhang"],
         "journal": "JHEP?",
         "RI":[],
         "status": [
@@ -44,7 +43,7 @@
         "group": "RECO",
         "contact": ["Katie Mason, Nick Kamp"],
         "EB": ["Michael Mooney", "Randy Johnson"],
-        "PC": [],
+        "PC": ["Mitch Soderberg", "Melissa Uchida"],
         "journal": "JINST",
         "RI":[],
         "status": [
@@ -57,7 +56,7 @@
         "group": "XS",
         "contact": ["Krishan Mistry"],
         "EB": ["Dave Schmitz", "Zarko Pavlovich"],
-        "PC": [],
+        "PC": ["Mitch Soderberg", "Xiao Luo"],
         "journal": "PRD",
         "RI":[],
         "status": [
@@ -71,7 +70,7 @@
         "group": "RECO",
         "contact": ["Ran Itay"],
         "EB": ["Mike Kirby", "Brett Viren"],
-        "PC": [],
+        "PC": ["Xiao Luo", "Melissa Uchida"],
         "journal": "PRD",
         "RI":[],
         "status": [
@@ -85,7 +84,7 @@
         "group": "APE",
         "contact": ["Wouter Van de pontseele"],
         "EB": ["Andrew Furmanski", "David Martinez"],
-        "PC": [],
+        "PC": ["Mitch Soderberg", "Leslie Camilleri"],
         "journal": "JINST",
         "RI":[],
         "status": [
@@ -99,7 +98,7 @@
         "group": "OSC",
         "contact": ["Roxanne Guenette"],
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
-        "PC": [],
+        "PC": ["Chao Zhang", "Xiao Luo"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -112,7 +111,7 @@
         "group": "OSC",
         "contact": ["Janet Conrad"],
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
-        "PC": [],
+        "PC": ["Leslie Camilleri", "Jose Crespo"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -125,7 +124,7 @@
         "group": "OSC",
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": [],
+        "PC": ["Xiao Luo", "Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -138,7 +137,7 @@
         "group": "RECO",
         "contact": ["Xiangpan Ji", "Hanyu Wei"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": [],
+        "PC": ["Jose Crespo", "Chao Zhang"],
         "journal": "JINST",
         "RI":[],
         "status": [
@@ -151,7 +150,7 @@
         "group": "OSC",
         "contact": ["Jay Hyun Jo", "Hanyu Wei"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": [],
+        "PC": ["Mitch Soderberg", "Jose Crespo"],
         "journal": "PRD",
         "RI":["LANL"],
         "status": [
@@ -165,7 +164,7 @@
         "group": "OSC",
         "contact": ["Hanyu Wei", "Jay Hyun Jo"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": ["Mitch Soderberg"],
+        "PC": ["Mitch Soderberg", "Jose Crespo"],
         "journal": "PRL",
         "RI":["LANL"],
         "status": [
@@ -178,7 +177,7 @@
         "group": "OSC",
         "contact": ["Georgia Karagiorgi"],
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
-        "PC": [],
+        "PC": ["Melissa Uchida", "Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -191,7 +190,7 @@
         "group": "RECO",
         "contact": ["Rui An"],
         "EB": ["Chao Zhang", "Kazuhiro Terao"],
-        "PC": [],
+        "PC": ["Leslie Camilleri", "Jose Crespo"],
         "journal": "PRD",
         "RI":[],
         "status": [
@@ -209,7 +208,7 @@
         "group": "XS",
         "contact": ["Supraja Balasubramanian, Joel Mousseau"],
         "EB": ["Andy Mastbaum", "Yun-Tse Tsai"],
-        "PC": [],
+        "PC": ["Xiao Luo", "Melissa Uchida"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -223,7 +222,7 @@
         "group": "XS",
         "contact": ["Katrina Miller"],
         "EB": ["Jonathan Asaadi", "Xiao Luo"],
-        "PC": [],
+        "PC": ["Leslie Camilleri", "Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -236,7 +235,7 @@
         "group": "XS",
         "contact": ["Kirsty Duffy, Steven Gardiner, Richie Diurba, Steve Dytman"],
         "EB": ["Or Hen", "Jaroslaw Novak"],
-        "PC": [],
+        "PC": ["Chao Zhang", "Leslie Camilleri"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -249,7 +248,7 @@
         "group": "XS",
         "contact": ["Afro Papadopoulou"],
         "EB": ["Anne Schukraft", "Stephen Pate"],
-        "PC": [],
+        "PC": ["Melissa Uchida", "Xiao Luo"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -301,7 +300,7 @@
         "group": "DPC",
         "contact": ["Andrew Mogan"],
         "EB": ["Michelle Stancari, Bruce Baller"],
-        "PC": [],
+        "PC": ["Jose Crespo", "Chao Zhang"],
         "journal": "JINST",
         "RI":[],
         "status": [
@@ -314,7 +313,7 @@
         "group": "DPC",
         "contact": ["Lauren Yates"],
         "EB": ["Andy Mastbaum, Donna Naples"],
-        "PC": [],
+        "PC": ["Chao Zhang", "Leslie Camilleri"],
         "journal": "EPJ C",
         "RI":[],
         "status": [

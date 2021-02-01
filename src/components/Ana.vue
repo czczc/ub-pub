@@ -56,6 +56,10 @@
         {{ eb(item) }}
       </template>
 
+      <template v-slot:item.PC="{ item }">
+        {{ pc(item) }}
+      </template>
+
       <template v-slot:item.status="{ item }">
         <span class="darken-1">{{ stage(item) }}</span>
       </template>
@@ -194,6 +198,10 @@ export default {
 
     eb(item) {
       return item.EB.join(", ");
+    },
+
+    pc(item) {
+      return item.PC.join(", ");
     },
 
     contact(item) {
