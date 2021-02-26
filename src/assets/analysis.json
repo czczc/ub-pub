@@ -31,9 +31,10 @@
         "contact": ["Nicolo Foppiani"],
         "EB": ["Melissa Uchida", "Mark Convery"],
         "PC": ["Jose Crespo", "Chao Zhang"],
-        "journal": "JHEP?",
+        "journal": "JHEP",
         "RI":[],
         "status": [
+            {"stage": "3", "dateStart": "2021-02-25", "dateEnd": "2021-03-11", "dateDue": "2021-03-11", "whatIsDue":"1st Collaboration Review"},
             {"stage": "2", "dateStart": "2021-02-01", "dateEnd": "", "dateDue": "2021-02-05", "whatIsDue":"Style Review"},
             {"stage": "1", "dateStart": "2020-12-16", "dateEnd": "2021-01-29", "dateDue": "2020-12-30", "whatIsDue":"2nd EB review"}
         ]
