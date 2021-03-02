@@ -7,6 +7,23 @@
 
       <v-spacer></v-spacer>
 
+      <div v-for="link in links" :key="link.route">
+        <v-tooltip bottom>
+          <template v-slot:activator="{ on, attrs }">
+            <v-btn
+              icon
+              :to="link.route"
+              v-bind="attrs"
+              v-on="on"
+              ><v-icon>{{ link.icon }}</v-icon>
+            </v-btn>
+          </template>
+          <span>{{ link.text }}</span>
+        </v-tooltip>
+      </div>
+
+      <v-divider vertical></v-divider>
+
       <!-- https://cdn.materialdesignicons.com/5.4.55/ -->
 
       <div v-for="link in externals" :key="link.url">
