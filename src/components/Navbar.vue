@@ -56,10 +56,10 @@ export default {
     return {
       drawer: false,
       links: [
-        { icon: "mdi-home", text: "Home", route: "/" },
+        { icon: "mdi-home", text: "Publications", route: "/" },
         {
           icon: "mdi-home-import-outline",
-          text: "Internal",
+          text: "In Analysis",
           route: "/internal",
         },
       ],
@@ -67,7 +67,7 @@ export default {
         {
           url: "https://microboone.fnal.gov/documents-publications/",
           icon: "mdi-skip-backward",
-          text: "Another Version",
+          text: "Previous Version",
         },
         {
           url: "https://microboone.fnal.gov/public-notes/",

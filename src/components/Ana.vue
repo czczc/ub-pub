@@ -62,6 +62,7 @@
 
       <template v-slot:item.status="{ item }">
         <span class="darken-1">{{ stage(item) }}</span>
+        <span class="red--text lighten-2">{{ stageDue(item) }}</span>
       </template>
 
       <template v-slot:item.updated="{ item }">
@@ -172,17 +173,26 @@ export default {
     stage(item) {
       let code = item["status"][0]["stage"];
       let dateEnd = item["status"][0]["dateEnd"];
-      let dateDue = item["status"][0]["dateDue"];
+      // let dateDue = item["status"][0]["dateDue"];
       let whatIsDue = item["status"][0]["whatIsDue"];
       let text = `${code}) ${this.stageDef[code]}`;
-      if (dateDue && dateDue != "") {
+      if (!(whatIsDue && whatIsDue != "")) {
+        if (dateEnd && dateEnd != "") {
+          text += " ended";
+        }
+        else {
+          text += " started";
+        }
+      }
+
+      return text;
+    },
+
+    stageDue(item) {
+      let whatIsDue = item["status"][0]["whatIsDue"];
+      let text = "";
+      if (whatIsDue && whatIsDue != "") {
         text += ` due (${whatIsDue})`;
-      }
-      else if (dateEnd && dateEnd != "") {
-        text += " ended";
-      }
-      else {
-        text += " started";
       }
       return text;
     },
@@ -221,10 +231,10 @@ export default {
     },
 
     dueText(step) {
-      let dateDue = step.dateDue;
+      // let dateDue = step.dateDue;
       let whatIsDue = step.whatIsDue;
       let text = ""
-      if (dateDue && dateDue != "") {
+      if (whatIsDue && whatIsDue != "") {
         text += `Due (${whatIsDue})`;
       }
       return text;
