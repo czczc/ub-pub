@@ -52,7 +52,9 @@
     </v-app-bar>
 
     <v-navigation-drawer app v-model="drawer" dark color="secondary">
-      <!-- <v-img src="/uboone.png" class="my-3 mx-5" /> -->
+      <v-img 
+        :src="require('../assets/uboone.png')"
+        class="my-3 mx-5" />
       <v-list>
         <v-list-item-group v-for="link in links" :key="link.text">
           <v-list-item :to="link.route">
