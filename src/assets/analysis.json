@@ -4,7 +4,7 @@
         "group": "XS",
         "contact": ["Krishan Mistry"],
         "EB": ["Joseph Zennamo", "Bryce Littlejohn"],
-        "PC": [],
+        "PC": ["Jose Crespo", "Xiao Luo"],
         "journal": "PRD",
         "RI":[],
         "status": [
@@ -17,7 +17,7 @@
         "group": "APE",
         "contact": ["Pawel Guzowski"],
         "EB": ["Mary Bishai", "Bruce Baller"],
-        "PC": ["Melissa Uchida", "Mitch Soderberg"],
+        "PC": ["Xiao Luo", "Mitch Soderberg"],
         "journal": "PRL?",
         "RI":[],
         "status": [
@@ -126,7 +126,7 @@
         "group": "OSC",
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": ["Xiao Luo", "Mitch Soderberg"],
+        "PC": ["Melissa Uchida", "Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -263,7 +263,7 @@
         "group": "XS",
         "contact": ["Andrew Smith", "Kirsty Duffy"],
         "EB": ["Steve Dytman, Andy Furmanski"],
-        "PC": [],
+        "PC": ["Mitch Soderberg","Chao Zhang"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -276,7 +276,7 @@
         "group": "XS",
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
-        "PC": [],
+        "PC": ["Melissa Uchida","Jose Crespo"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -289,7 +289,7 @@
         "group": "XS",
         "contact": ["David Caratelli"],
         "EB": ["Randy Johnson, Andrzej Szelc"],
-        "PC": [],
+        "PC": ["Leslie Camilleri", "Melissa Uchida"],
         "journal": "TBD",
         "RI":[],
         "status": [
