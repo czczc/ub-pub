@@ -21,8 +21,8 @@
         "journal": "PRL",
         "RI":[],
         "status": [
-            {"stage": "1", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":"EB review"},
-            {"stage": "2", "dateStart": "2021-03-02", "dateEnd": "2021-03-12", "dateDue": "", "whatIsDue":"Style review"}
+            {"stage": "2", "dateStart": "2021-03-02", "dateEnd": "2021-03-12", "dateDue": "", "whatIsDue":"Style review"},
+            {"stage": "1", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":"EB review"}
         ]
     },
     {
