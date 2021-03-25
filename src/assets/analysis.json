@@ -8,6 +8,7 @@
         "journal": "PRD",
         "RI":[],
         "status": [
+            {"stage": "1", "dateStart": "2021-01-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-09-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -30,7 +31,7 @@
         "docId": "32678",
         "title": "Likelihood-based PID",
         "group": "RECO",
-        "contact": ["Nicolo Foppiani"],
+        "contact": ["Nicolò Foppiani"],
         "EB": ["Melissa Uchida", "Mark Convery"],
         "PC": ["Jose Crespo", "Chao Zhang"],
         "journal": "JHEP",
@@ -207,8 +208,8 @@
         ]
     },
     {
-        "docId": "28163",
-        "title": "CCpi0 xsec",
+        "docId": "34162",
+        "title": "CC π0 xsec",
         "group": "XS",
         "contact": ["Supraja Balasubramanian, Joel Mousseau"],
         "EB": ["Andy Mastbaum", "Yun-Tse Tsai"],
@@ -216,13 +217,13 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "1", "dateStart": "2020-11-01", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-06-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
-        "docId": "33558",
-        "title": "NuMI nue CCNp xsec",
+        "docId": "34186",
+        "title": "NuMI ve CC Np xsec",
         "group": "XS",
         "contact": ["Katrina Miller"],
         "EB": ["Jonathan Asaadi", "Xiao Luo"],
@@ -247,8 +248,8 @@
         ]
     },
     {
-        "docId": "33053",
-        "title": "CC1mu1p STV",
+        "docId": "23504",
+        "title": "CC 1μ1p STV",
         "group": "XS",
         "contact": ["Afro Papadopoulou"],
         "EB": ["Anne Schukraft", "Stephen Pate"],
@@ -260,8 +261,8 @@
         ]
     },
     {
-        "docId": "31874",
-        "title": "CC1pi+",
+        "docId": "33809",
+        "title": "CC 1π+",
         "group": "XS",
         "contact": ["Andrew Smith", "Kirsty Duffy"],
         "EB": ["Steve Dytman, Andy Furmanski"],
@@ -269,12 +270,13 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
-        "docId": "33534",
-        "title": "WireCell Inclusive Cross Section",
+        "docId": "33766",
+        "title": "WireCell BNB vμ CC inclusive",
         "group": "XS",
         "contact": ["Xin Qian"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
@@ -282,12 +284,13 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
-        "docId": "33540",
-        "title": "eta measurement",
+        "docId": "34171",
+        "title": "η production",
         "group": "XS",
         "contact": ["David Caratelli"],
         "EB": ["Randy Johnson, Andrzej Szelc"],
@@ -295,6 +298,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -323,6 +327,149 @@
         "RI":[],
         "status": [
             {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33878",
+        "title": "CC 1μ2p",
+        "group": "XS",
+        "contact": ["Samantha Sword-Fehlberg"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "30733",
+        "title": "NC 1p",
+        "group": "XS",
+        "contact": ["Lu Ren"],
+        "EB": ["Joseph Zennamo", "Taritree Wongjirad"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33309",
+        "title": "CC K+",
+        "group": "XS",
+        "contact": ["Jairo Rodriguez"],
+        "EB": ["Bryce Littlejohn", "Melissa Uchida"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34387",
+        "title": "CC 0p",
+        "group": "XS",
+        "contact": ["Yifan Chen"],
+        "EB": ["Steve Dytman", "Dave Schmitz"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "32738",
+        "title": "MCC9 BNB vμ CC inclusive",
+        "group": "XS",
+        "contact": ["Thomas Mettler"],
+        "EB": ["Wes Ketchum", "Sowjanya Gollapinni"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34354",
+        "title": "vμ CC COH π+",
+        "group": "XS",
+        "contact": ["Zack Williams"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34282",
+        "title": "vμ CC Λ",
+        "group": "XS",
+        "contact": ["Chris Thorpe"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34520",
+        "title": "NuMI vμ CC inclusive",
+        "group": "XS",
+        "contact": ["Chris Barnes"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34523",
+        "title": "WireCell NuMI vμ CC inclusive",
+        "group": "XS",
+        "contact": ["Kaicheng Li"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33612",
+        "title": "vμ CCNp STV",
+        "group": "XS",
+        "contact": ["Steven Gardiner"],
+        "EB": ["Diego Gamez", "Mike Kirby?"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "33881",
+        "title": "NC/CC π0 ratio",
+        "group": "XS",
+        "contact": ["Giuseppe Cerati", "Nicolò Foppiani"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     }
 ]
