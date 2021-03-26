@@ -378,7 +378,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
