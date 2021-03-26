@@ -5,7 +5,7 @@
         "contact": ["Krishan Mistry"],
         "EB": ["Joseph Zennamo", "Bryce Littlejohn"],
         "PC": ["Jose Crespo", "Xiao Luo"],
-        "journal": "PRD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "1", "dateStart": "2021-01-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
