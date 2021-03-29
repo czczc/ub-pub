@@ -37,6 +37,7 @@
       sort-desc
       show-group-by
       class="elevation-1"
+      :item-class= "row_classes"
     >
       <template v-slot:item.docId="{ item }">
         <a
@@ -170,6 +171,16 @@ export default {
   },
 
   methods: {
+    row_classes(item) {
+      let status = item["status"][0];
+      if (status["stage"] == "5" && status["dateEnd"] != "") {
+        return "completed";
+      }
+      else {
+        return "";
+      }
+    },
+
     stage(item) {
       let code = item["status"][0]["stage"];
       let dateEnd = item["status"][0]["dateEnd"];
@@ -247,3 +258,10 @@ export default {
   },
 };
 </script>
+
+<style>
+.completed {
+  background-color: #e9f5db;  
+}
+
+</style>
