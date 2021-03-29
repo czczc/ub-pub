@@ -34,10 +34,10 @@
     {
         "title": "Semantic Segmentation with a Sparse Convolutional Neural Network for Event Reconstruction in MicroBooNE",
         "arXiv": "2012.08513",
-        "year": "2020",
+        "year": "2021",
         "journal": "PRD",
-        "cite": "",
-        "status": "accepted"
+        "cite": "Phys. Rev. D103, 052012 (2021)",
+        "status": "published"
     },
     {
         "title": "Neutrino Event Selection in the MicroBooNE Liquid Argon Time Projection Chamber using Wire-Cell 3D Imaging, Clustering, and Charge-Light Matching",
@@ -45,7 +45,7 @@
         "year": "2020",
         "journal": "JINST",
         "cite": "",
-        "status": "submitted"
+        "status": "accepted"
     },
     {
         "title": "A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber",
@@ -53,7 +53,7 @@
         "year": "2020",
         "journal": "PRD",
         "cite": "",
-        "status": "submitted"
+        "status": "accepted"
     },
     {
         "title": "Measurement of Differential Cross Sections for Muon Neutrino Charged Current Interactions on Argon with Protons and No Pions in the Final State with the MicroBooNE Detector",
