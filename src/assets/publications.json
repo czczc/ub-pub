@@ -58,10 +58,10 @@
     {
         "title": "A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber",
         "arXiv": "2010.08653",
-        "year": "2020",
+        "year": "2021",
         "journal": "PRD",
-        "cite": "",
-        "status": "accepted"
+        "cite": "Phys. Rev. D103, 092003 (2021)",
+        "status": "published"
     },
     {
         "title": "Measurement of Differential Cross Sections for Muon Neutrino Charged Current Interactions on Argon with Protons and No Pions in the Final State with the MicroBooNE Detector",
