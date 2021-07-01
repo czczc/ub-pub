@@ -60,8 +60,8 @@
         "arXiv": "2011.01375",
         "year": "2020",
         "journal": "JINST",
-        "cite": "",
-        "status": "accepted"
+        "cite": "JINST 16, P06043 (2021)",
+        "status": "published"
     },
     {
         "title": "A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber",
