@@ -8,7 +8,8 @@
         "journal": "PRL",
         "RI":[],
         "status": [
-            {"stage": "1", "dateStart": "2021-01-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "2", "dateStart": "2021-08-02", "dateEnd": "", "dateDue": "", "whatIsDue":"Style review"},
+            {"stage": "1", "dateStart": "2021-01-25", "dateEnd": "2021-08-02", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-09-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
