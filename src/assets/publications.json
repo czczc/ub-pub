@@ -1,5 +1,13 @@
 [
     {
+        "title": "Calorimetric classification of track-like signatures in liquid argon TPCs using MicroBooNE data",
+        "arXiv": "2109.02460",
+        "year": "2021",
+        "journal": "JHEP",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
         "title": "Search for a Higgs portal scalar decaying to electron-positron pairs in the MicroBooNE detector",
         "arXiv": "2106.00568",
         "year": "2021",
@@ -43,7 +51,7 @@
         "title": "High-performance Generic Neutrino Detection in a LArTPC near the Earth's Surface with the MicroBooNE Detector",
         "arXiv": "2012.07928",
         "year": "2020",
-        "journal": "PRL",
+        "journal": "PRApplied",
         "cite": "",
         "status": "submitted"
     },
