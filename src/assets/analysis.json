@@ -334,6 +334,7 @@
         "journal": "EPJ C",
         "RI":[],
         "status": [
+            {"stage": "3", "dateStart": "2021-10-05", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
