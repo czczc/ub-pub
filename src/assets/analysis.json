@@ -214,6 +214,19 @@
         ]
     },
     {
+        "docId": "35315",
+        "title": "Wire-Cell 3D Pattern Recognition",
+        "group": "RECO",
+        "contact": ["Xiangpan Ji", "Haiwang Yu", "Hanyu Wei"],
+        "EB": ["Melissa Uchida","Kazuhiro Terao"],
+        "PC": ["Mitch Soderberg"],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "4", "dateStart": "2021-10-8", "dateEnd": "2021-10-15", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "34162",
         "title": "CC π0 xsec",
         "group": "XS",
