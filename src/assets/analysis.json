@@ -114,6 +114,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -121,12 +122,13 @@
         "docId": "32720",
         "title": "DL eLEE",
         "group": "OSC",
-        "contact": ["Janet Conrad"],
+        "contact": ["Ran Itay"],
         "EB": ["Glenn Horton-Smith", "Erica Snider", "Panagiotis Spentzouris"],
         "PC": ["Leslie Camilleri", "Jose Crespo"],
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -140,6 +142,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -193,6 +196,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -224,6 +228,7 @@
         "journal": "JINST",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "4", "dateStart": "2021-10-8", "dateEnd": "2021-10-15", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -264,8 +269,9 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "3", "dateStart": "2021-09-02", "dateEnd": "", "dateDue": "", "whatIsDue":""},
-	    {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+	        {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -299,12 +305,13 @@
         "docId": "33766",
         "title": "WireCell BNB vμ CC inclusive",
         "group": "XS",
-        "contact": ["Xin Qian"],
+        "contact": ["Wenqiang Gu"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
         "PC": ["Melissa Uchida","Jose Crespo"],
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
