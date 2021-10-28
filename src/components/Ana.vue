@@ -1,7 +1,7 @@
 <template>
   <v-card flat class="mb-4">
     <v-card-title>
-      Internal Analysis
+      Ongoing Analyses
       <v-spacer></v-spacer>
       <v-text-field
         v-model="search"

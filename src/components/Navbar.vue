@@ -78,7 +78,7 @@ export default {
         { icon: "mdi-home", text: "Publications", route: "/" },
         {
           icon: "mdi-home-import-outline",
-          text: "In Analysis",
+          text: "Analyses",
           route: "/internal",
         },
       ],
