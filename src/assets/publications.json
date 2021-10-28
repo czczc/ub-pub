@@ -1,5 +1,61 @@
 [
     {
+        "title": "Search for an anomalous excess of charged-current quasi-elastic νe interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction",
+        "arXiv": "2110.14080",
+        "year": "2021",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Search for an anomalous excess of charged-current νe interactions without pions in the final state with the MicroBooNE experiment",
+        "arXiv": "2110.14065",
+        "year": "2021",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Search for an Excess of Electron Neutrino Interactions in MicroBooNE Using Multiple Final State Topologies",
+        "arXiv": "2110.14054",
+        "year": "2021",
+        "journal": "PRL",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "New Theory-driven GENIE Tune for MicroBooNE",
+        "arXiv": "2110.14028",
+        "year": "2021",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "First Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Sections on Argon with the MicroBooNE Detector",
+        "arXiv": "2110.14023",
+        "year": "2021",
+        "journal": "PRL",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Search for an anomalous excess of inclusive charged-current νe interactions in the MicroBooNE experiment using Wire-Cell reconstruction",
+        "arXiv": "2110.13978",
+        "year": "2021",
+        "journal": "PRD",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
+        "title": "Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation",
+        "arXiv": "2110.13961",
+        "year": "2021",
+        "journal": "JINST",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
         "title": "Electromagnetic Shower Reconstruction and Energy Validation with Michel Electrons and π0 Samples for the Deep-Learning-Based Analyses in MicroBooNE",
         "arXiv": "2110.11874",
         "year": "2021",
@@ -74,7 +130,7 @@
     {
         "title": "Neutrino Event Selection in the MicroBooNE Liquid Argon Time Projection Chamber using Wire-Cell 3D Imaging, Clustering, and Charge-Light Matching",
         "arXiv": "2011.01375",
-        "year": "2020",
+        "year": "2021",
         "journal": "JINST",
         "cite": "JINST 16, P06043 (2021)",
         "status": "published"
