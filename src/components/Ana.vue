@@ -1,7 +1,8 @@
 <template>
   <v-card flat class="mb-4">
     <v-card-title>
-      Ongoing Analyses
+      Analyses
+
       <v-spacer></v-spacer>
       <v-text-field
         v-model="search"
@@ -10,6 +11,14 @@
         single-line
         hide-details
       ></v-text-field>
+      
+
+      <v-switch
+        v-model="showAll"
+        label="Show completed"
+        @change="updateList()"
+      ></v-switch>
+
     </v-card-title>
 
     <v-card-text>
@@ -132,6 +141,7 @@ export default {
   data() {
     return {
       search: "",
+      showAll: false,
       headers: [
         {
           text: "doc-#",
@@ -170,10 +180,27 @@ export default {
     }
   },
 
+  mounted() {
+    this.updateList();
+  },
+
   methods: {
+    updateList() {
+      if (this.showAll) {
+        this.items = Analysis.filter(item => this.isCompleted(item) );
+      }
+      else {
+        this.items = Analysis.filter(item => !this.isCompleted(item) );
+      }
+      // console.log(this.items);
+    },
+
+    isCompleted(item) {
+      return item["status"][0]["stage"] == "5" && item["status"][0]["dateEnd"] != "";
+    },
+
     row_classes(item) {
-      let status = item["status"][0];
-      if (status["stage"] == "5" && status["dateEnd"] != "") {
+      if (this.isCompleted(item)) {
         return "completed";
       }
       else {
