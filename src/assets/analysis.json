@@ -353,9 +353,10 @@
         "contact": ["Lauren Yates"],
         "EB": ["Andy Mastbaum, Donna Naples"],
         "PC": ["Chao Zhang", "Leslie Camilleri"],
-        "journal": "EPJ C",
+        "journal": "EPJC",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2021-11-08", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "3", "dateStart": "2021-10-05", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
