@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cosmic ray muon clustering for the MicroBooNE liquid argon time projection chamber using sMask-RCNN",
+        "arXiv": "2201.05705",
+        "year": "2022",
+        "journal": "JINST",
+        "cite": "",
+        "status": "submitted"
+    },
+    {
         "title": "Novel Approach for Evaluating Detector-Related Uncertainties in a LArTPC Using MicroBooNE Data",
         "arXiv": "2111.03556",
         "year": "2021",
