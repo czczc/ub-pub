@@ -1,4 +1,18 @@
-[    {
+[    
+    {
+        "docId": "35576",
+        "title": "gLEE NCpi0",
+        "group": "XS",
+        "contact": ["Rob Fine", "Mark Ross-Lonergan"],
+        "EB": ["Bill Louis", "Michelle Stancari", "Jarek Nowak"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-24", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "32401",
         "title": "NuMI nue inclusive differential",
         "group": "XS",
