@@ -517,5 +517,57 @@
         "status": [
             {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
+    },
+    {
+        "docId": "",
+        "title": "Neutron-antineutron oscillation",
+        "group": "APE",
+        "contact": ["Yeon-jae Jwa"],
+        "EB": ["Josh Barrow","Roxanne Guenette"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-07-07", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "HNLs and scalars from NuMI",
+        "group": "APE",
+        "contact": ["Owen Goodwin"],
+        "EB": ["Jose Crespo", "Yun-tse Tsai"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "Dark tridents",
+        "group": "APE",
+        "contact": ["Anyssa Navrer-Agasson", "Luis Mora Lepin"],
+        "EB": ["Bill Louis","Andrzej Szelc"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "",
+        "title": "Scalars to e+e-",
+        "group": "APE",
+        "contact": ["Aditya Bhanderi"],
+        "EB": ["Diego Gamez","Xiao Luo"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
     }
 ]
