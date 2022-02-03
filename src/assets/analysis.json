@@ -532,7 +532,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "36895",
         "title": "Neutron-antineutron oscillation",
         "group": "APE",
         "contact": ["Yeon-jae Jwa"],
@@ -545,7 +545,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "36901",
         "title": "HNLs and scalars from NuMI",
         "group": "APE",
         "contact": ["Owen Goodwin"],
@@ -558,7 +558,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "36756",
         "title": "Dark tridents",
         "group": "APE",
         "contact": ["Anyssa Navrer-Agasson", "Luis Mora Lepin"],
@@ -571,7 +571,7 @@
         ]
     },
     {
-        "docId": "",
+        "docId": "36833",
         "title": "Scalars to e+e-",
         "group": "APE",
         "contact": ["Aditya Bhanderi"],
