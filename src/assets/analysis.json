@@ -582,5 +582,33 @@
         "status": [
             {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
+    },
+    {
+        "docId": "36726",
+        "title": "MicroBooNE Beam Timing",
+        "group": "Trigger",
+        "contact": ["Dante Totani"],
+        "EB": ["Tom Kobilarcik","David Martinez"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-28", "dateEnd": "2022-02-04", "dateDue": "", "whatIsDue":""}
+            {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "35663",
+        "title": "Scintillation Light Triggering Efficiency",
+        "group": "Trigger",
+        "contact": ["Vincent Basque"],
+        "EB": ["Herbert Greenlee","Georgia Karagiorgi"],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-08-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "0", "dateStart": "2021-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
     }
 ]
