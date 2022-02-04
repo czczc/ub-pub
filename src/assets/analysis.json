@@ -1,4 +1,30 @@
-[   
+[
+    {
+        "docId": "36675",
+        "title": "eLEE signal unfolding paper",
+        "group": "OSC",
+        "contact": ["Mark Ross-Lonergan","Georgia Karagiorgi"],
+        "EB": ["Xin Quin, Josh Spitz"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2021-12-10", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "36930",
+        "title": "DL 3+1 numu disapearance analysis",
+        "group": "OSC",
+        "contact": ["Josh Mills"],
+        "EB": ["Adi Ashkenazi", "Andy Mastbaum"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-10", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
     {
         "docId": "36798",
         "title": "WC NC Delta Cross-Check Analysis",
