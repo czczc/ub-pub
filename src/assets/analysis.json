@@ -649,6 +649,19 @@
             {"stage": "0", "dateStart": "2022-01-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
+	{
+        "docId": "36293",
+        "title": "Observation of Radon Mitigation By the MicroBooNE Filtration System",
+        "group": "DPG",
+        "contact": ["Joseph Zennamo"],
+        "EB": ["Bryce Littlejohn","Mitchell Soderberg"],
+        "PC": [],
+        "journal": "JINST",
+        "RI":[],
+        "status": [
+            {"stage": "3", "dateStart": "2022-01-31", "dateEnd": "2022-02-21", "dateDue": "", "whatIsDue":""} 
+        ]
+    },
     {
         "docId": "35663",
         "title": "Scintillation Light Triggering Efficiency",
