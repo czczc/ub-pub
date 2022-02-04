@@ -1,4 +1,30 @@
-[    
+[   
+    {
+        "docId": "36798",
+        "title": "WC NC Delta Cross-Check Analysis",
+        "group": "OSC",
+        "contact": ["Lee Hagaman"],
+        "EB": ["Leslie Camilleri", "Ran Itay"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-04", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "36795",
+        "title": "WC Single-Photon Inclusive",
+        "group": "OSC",
+        "contact": ["Erin Yandel"],
+        "EB": ["Vittorio Paolone", "Giuseppe Cerati"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-27", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
     {
         "docId": "35576",
         "title": "gLEE NCpi0",
