@@ -1,5 +1,14 @@
 [
     {
+        "title": "First Measurement of Inclusive Electron-Neutrino and Antineutrino Charged Current Differential Cross Sections in Charged Lepton Energy on Argon in MicroBooNE",
+        "arXiv": "2109.06832",
+        "year": "2021",
+        "journal": "PRD",
+        "cite": "",
+        "status": "accepted"
+    },
+    
+    {
         "title": "Cosmic ray muon clustering for the MicroBooNE liquid argon time projection chamber using sMask-RCNN",
         "arXiv": "2201.05705",
         "year": "2022",
