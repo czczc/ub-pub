@@ -1,5 +1,18 @@
 [
     {
+        "docId": "36929",
+        "title": "DL 3+1 combined nue + numu analysis",
+        "group": "OSC",
+        "contact": ["Katie Mason"],
+        "EB": ["Adi Ashkenazi", "Andy Mastbaum"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-01-10", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "36675",
         "title": "eLEE signal unfolding paper",
         "group": "OSC",
