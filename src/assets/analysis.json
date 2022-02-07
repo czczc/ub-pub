@@ -571,6 +571,33 @@
         ]
     },
     {
+        "docId": "34282",
+        "title": "nue to nue ratio",
+        "group": "XS",
+        "contact": ["Alex Moor"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "34282",
+        "title": "antinue total cross section",
+        "group": "XS",
+        "contact": ["Marina Reggiani-Guzzo"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+	
+    {
         "docId": "33612",
         "title": "vμ CCNp STV",
         "group": "XS",
