@@ -1,5 +1,18 @@
 [
     {
+        "docId": "36856",
+        "title": "Wire Cell 3+1 combined BNB + NuMI Osc analysis",
+        "group": "OSC",
+        "contact": ["Xiangpan Ji"],
+        "EB": ["Andy Furmanski","Mike Shaevitz","Erica Snider"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-02-09", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "36929",
         "title": "DL 3+1 combined nue + numu analysis",
         "group": "OSC",
