@@ -113,7 +113,7 @@
         "journal": "PRL",
         "RI":[],
         "status": [
-	    {"stage": "5", "dateStart": "2021-09-27", "dateEnd": "2022-02-03", "dateDue": "", "whatIsDue":""},
+	    {"stage": "5", "dateStart": "2021-09-27", "dateEnd": "2022-02-03", "dateDue": "", "whatIsDue":"Accepted PRD"},
 	    {"stage": "3", "dateStart": "2021-08-09", "dateEnd": "2021-08-23", "dateDue": "", "whatIsDue":"1st Collaboration Review"},
             {"stage": "2", "dateStart": "2021-08-02", "dateEnd": "2021-08-09", "dateDue": "", "whatIsDue":"Style review"},
             {"stage": "1", "dateStart": "2021-01-25", "dateEnd": "2021-08-02", "dateDue": "", "whatIsDue":""},
@@ -356,7 +356,7 @@
         "title": "NuMI ve CC Np xsec",
         "group": "XS",
         "contact": ["Katrina Miller"],
-        "EB": ["Jonathan Asaadi", "Xiao Luo"],
+        "EB": ["Jonathan Asaadi", "Mike Kirby"],
         "PC": ["Leslie Camilleri", "Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
@@ -549,7 +549,7 @@
         "title": "vμ CC Λ",
         "group": "XS",
         "contact": ["Chris Thorpe"],
-        "EB": [],
+        "EB": ["Vassili Papavassiliou", "Tim Bolton"],
         "PC": [],
         "journal": "TBD",
         "RI":[],
@@ -559,20 +559,20 @@
     },
     {
         "docId": "34520",
-        "title": "NuMI vμ CC inclusive",
+        "title": "NuMI numu CC inclusive",
         "group": "XS",
         "contact": ["Chris Barnes"],
-        "EB": [],
+        "EB": ["Anne Schukraft", "Pawel Guzowski"],
         "PC": [],
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+            {"stage": "1", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
         "docId": "34523",
-        "title": "WireCell NuMI vμ CC inclusive",
+        "title": "WireCell NuMI ve CC inclusive",
         "group": "XS",
         "contact": ["Kaicheng Li"],
         "EB": [],
@@ -583,6 +583,33 @@
             {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
+    {
+        "docId": "36925",
+        "title": "nue to nue ratio",
+        "group": "XS",
+        "contact": ["Alex Moor"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
+        "docId": "36479",
+        "title": "antinue total cross section",
+        "group": "XS",
+        "contact": ["Marina Reggiani-Guzzo"],
+        "EB": [],
+        "PC": [],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+	
     {
         "docId": "33612",
         "title": "vμ CCNp STV",
