@@ -1,5 +1,18 @@
 [
     {
+        "docId": "37060",
+        "title": "gLEE 1g0p coherent single-photon analysis",
+        "group": "OSC",
+        "contact": ["Guanqun Ge"],
+        "EB": ["Jen Raaf","Hanyu Wei"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-02-17", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "36856",
         "title": "Wire Cell 3+1 combined BNB + NuMI Osc analysis",
         "group": "OSC",
