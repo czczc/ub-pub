@@ -614,7 +614,7 @@
         "title": "antinue total cross section",
         "group": "XS",
         "contact": ["Marina Reggiani-Guzzo"],
-        "EB": [],
+        "EB": ["Joseph Zennamo","Lu Ren"],
         "PC": [],
         "journal": "TBD",
         "RI":[],
