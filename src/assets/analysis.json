@@ -246,7 +246,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "2022-03-25", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-06-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -474,7 +474,7 @@
         "journal": "EPJC",
         "RI":[],
         "status": [
-            {"stage": "5", "dateStart": "2021-11-08", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+            {"stage": "5", "dateStart": "2021-11-08", "dateEnd": "2022-03-28", "dateDue": "", "whatIsDue":""},
             {"stage": "3", "dateStart": "2021-10-05", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-12-03", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
