@@ -26,26 +26,26 @@
     {
         "title": "Search for an anomalous excess of charged-current quasi-elastic νe interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction",
         "arXiv": "2110.14080",
-        "year": "2021",
+        "year": "2022",
         "journal": "PRD",
-        "cite": "",
-        "status": "accepted"
+        "cite": "Phys. Rev. D 105, 112003 (2022)",
+        "status": "published"
     },
     {
         "title": "Search for an anomalous excess of charged-current νe interactions without pions in the final state with the MicroBooNE experiment",
         "arXiv": "2110.14065",
-        "year": "2021",
+        "year": "2022",
         "journal": "PRD",
-        "cite": "",
-        "status": "accepted"
+        "cite": "Phys. Rev. D 105, 112004 (2022)",
+        "status": "published"
     },
     {
         "title": "Search for an Excess of Electron Neutrino Interactions in MicroBooNE Using Multiple Final State Topologies",
         "arXiv": "2110.14054",
-        "year": "2021",
+        "year": "2022",
         "journal": "PRL",
-        "cite": "",
-        "status": "submitted"
+        "cite": "Phys. Rev. Lett. 128, 241801 (2022)",
+        "status": "published"
     },
     {
         "title": "New Theory-driven GENIE Tune for MicroBooNE",
@@ -66,10 +66,10 @@
     {
         "title": "Search for an anomalous excess of inclusive charged-current νe interactions in the MicroBooNE experiment using Wire-Cell reconstruction",
         "arXiv": "2110.13978",
-        "year": "2021",
+        "year": "2022",
         "journal": "PRD",
-        "cite": "",
-        "status": "accepted"
+        "cite": "Phys. Rev. D 105, 112005 (2022)",
+        "status": "published"
     },
     {
         "title": "Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation",
