@@ -1,5 +1,18 @@
 [
     {
+        "docId": "37721",
+        "title": "gLEE Dark-Nu e+e- analysis MOU with IPPP/Bologna ",
+        "group": "OSC",
+        "contact": ["Mark Ross-Lonergan"],
+        "EB": ["Bryce Littlejohn","Mitch Soderberg"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-07-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+    {
         "docId": "37060",
         "title": "gLEE 1g0p coherent single-photon analysis",
         "group": "OSC",
