@@ -1,4 +1,18 @@
 [
+  {
+        "docId": "37721",
+        "title": "GENIE Dark neutrino e+e- LEE searches using wirecell ",
+        "group": "OSC",
+        "contact": [" Pawel Guzowski"],
+        "EB": ["Andy Blake","Bonnie Fleming"],
+        "PC": [""],
+        "journal": "TBD",
+        "RI":[],
+        "status": [
+            {"stage": "1", "dateStart": "2022-07-21", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+        ]
+    },
+
     {
         "docId": "37721",
         "title": "gLEE Dark-Nu e+e- analysis MOU with IPPP/Bologna ",
