@@ -491,7 +491,7 @@
             {"stage": "3", "dateStart": "2021-02-19", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2020-11-05", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
-    }, 
+    },
     {
         "docId": "30823",
         "title": "Wiremod Systematics",
@@ -589,12 +589,13 @@
         "docId": "34282",
         "title": "vμ CC Λ",
         "group": "XS",
-        "contact": ["Chris Thorpe"],
+        "contact": ["Chris Thorpe","Jarek Nowak"],
         "EB": ["Vassili Papavassiliou", "Tim Bolton"],
         "PC": [],
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "3", "dateStart": "2022-09-27", "dateEnd": "2022-10-11", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -650,7 +651,7 @@
             {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
-	
+
     {
         "docId": "33612",
         "title": "vμ CCNp STV",
