@@ -1,4 +1,14 @@
 [
+  {
+      "title": "First constraints on light sterile neutrino oscillations from combined appearance and
+disappearance searches with the MicroBooNE detector",
+      "arXiv": "",
+      "year": "2022",
+      "journal": "PRL",
+      "cite": "",
+      "status": ""
+  },
+
     {
         "title": "Differential cross section measurement of charged current νe interactions without final-state pions in MicroBooNE",
         "arXiv": "2208.02348",
@@ -6,7 +16,7 @@
         "journal": "PRD",
         "cite": "Phys. Rev. D 106, L051102 (2022)",
         "status": "published"
-    }, 
+    },
     {
         "title": "Search for long-lived heavy neutral leptons and Higgs portal scalars decaying in the MicroBooNE detector",
         "arXiv": "2207.03840",
@@ -14,7 +24,7 @@
         "journal": "PRD",
         "cite": "",
         "status": "submitted"
-    },    
+    },
     {
         "title": "Measurement of neutral current single π0 production on argon with the MicroBooNE detector",
         "arXiv": "2205.07943",
