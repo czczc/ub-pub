@@ -49,6 +49,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "5", "dateStart": "2022-10-18", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2022-02-09", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -127,7 +128,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
-	    {"stage": "5", "dateStart": "2022-08-05", "dateEnd": "", "dateDue": "", "whatIsDue":""},
+	          {"stage": "5", "dateStart": "2022-08-05", "dateEnd": "", "dateDue": "", "whatIsDue":""},
             {"stage": "1", "dateStart": "2022-02-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -430,6 +431,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "4", "dateStart": "2022-10-20", "dateEnd": "2022-11-03", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2020-10-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
@@ -517,6 +519,7 @@
         "journal": "TBD",
         "RI":[],
         "status": [
+            {"stage": "4", "dateStart": "2022-09-22", "dateEnd": "2021-09-29", "dateDue": "", "whatIsDue":""},
             {"stage": "0", "dateStart": "2021-03-25", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
