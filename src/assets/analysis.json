@@ -258,7 +258,7 @@
         "contact": ["Roxanne Guenette"],
         "EB": ["Ornella Palamara", "Mitch Soderberg", "Andrzej Szelc"],
         "PC": ["Chao Zhang", "Xiao Luo"],
-        "journal": "TBD",
+        "journal": "PRD",
         "RI":[],
         "status": [
             {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "2022-02-18", "dateDue": "", "whatIsDue":""},
@@ -456,7 +456,7 @@
         "contact": ["Wenqiang Gu"],
         "EB": ["Vittorio Paolone", "Jen Raaf", "Josh Spitz"],
         "PC": ["Melissa Uchida","Jose Crespo"],
-        "journal": "TBD",
+        "journal": "PRD",
         "RI":[],
         "status": [
             {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "2022-03-10", "dateDue": "", "whatIsDue":""},
