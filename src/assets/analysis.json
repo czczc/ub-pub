@@ -418,7 +418,7 @@
         "status": [
             {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "2022-02-19", "dateDue": "", "whatIsDue":""},
             {"stage": "3", "dateStart": "2021-09-02", "dateEnd": "", "dateDue": "", "whatIsDue":""},
-	        {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
+	          {"stage": "0", "dateStart": "2020-12-01", "dateEnd": "", "dateDue": "", "whatIsDue":""}
         ]
     },
     {
@@ -701,7 +701,7 @@
         "group": "APE",
         "contact": ["Owen Goodwin"],
         "EB": ["Jose Crespo", "Yun-tse Tsai"],
-        "PC": [],
+        "PC": ["Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -755,7 +755,7 @@
         "group": "DPG",
         "contact": ["Joseph Zennamo"],
         "EB": ["Bryce Littlejohn","Mitchell Soderberg"],
-        "PC": [],
+        "PC": ["Mitch Soderberg"],
         "journal": "JINST",
         "RI":[],
         "status": [
