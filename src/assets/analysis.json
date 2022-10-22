@@ -46,7 +46,7 @@
         "contact": ["Xiangpan Ji"],
         "EB": ["Andy Furmanski","Mike Shaevitz","Erica Snider"],
         "PC": ["Jarek Nowak"],
-        "journal": "TBD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "5", "dateStart": "2022-10-18", "dateEnd": "", "dateDue": "", "whatIsDue":""},
@@ -124,7 +124,7 @@
         "group": "XS",
         "contact": ["Giuseppe Cerati", "Sophie Berkman"],
         "EB": ["Michele Weber", "Donna Naples"],
-        "PC": [""],
+        "PC": ["Mitch Soderberg"],
         "journal": "TBD",
         "RI":[],
         "status": [
@@ -340,7 +340,7 @@
         "contact": ["Georgia Karagiorgi"],
         "EB": ["Bill Louis", "Jaroslaw Nowak", "Michelle Stancari"],
         "PC": ["Melissa Uchida", "Mitch Soderberg"],
-        "journal": "TBD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "5", "dateStart": "2021-10-28", "dateEnd": "", "dateDue": "", "whatIsDue":""},
@@ -428,7 +428,7 @@
         "contact": ["Afro Papadopoulou"],
         "EB": ["Anne Schukraft", "Stephen Pate"],
         "PC": ["Vittorio Paolone"],
-        "journal": "TBD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "4", "dateStart": "2022-10-20", "dateEnd": "2022-11-03", "dateDue": "", "whatIsDue":""},
@@ -516,7 +516,7 @@
         "contact": ["Samantha Sword-Fehlberg"],
         "EB": ["Or Hen","Camillo Mariani"],
         "PC": ["Jarek Nowak"],
-        "journal": "TBD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "4", "dateStart": "2022-09-22", "dateEnd": "2021-09-29", "dateDue": "", "whatIsDue":""},
@@ -595,7 +595,7 @@
         "contact": ["Chris Thorpe","Jarek Nowak"],
         "EB": ["Vassili Papavassiliou", "Tim Bolton"],
         "PC": ["Adi Ashkenazi"],
-        "journal": "TBD",
+        "journal": "PRL",
         "RI":[],
         "status": [
             {"stage": "4", "dateStart": "2022-10-21", "dateEnd": "2022-10-28", "dateDue": "", "whatIsDue":""},
