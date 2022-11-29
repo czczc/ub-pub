@@ -46,16 +46,16 @@
         "arXiv": "2203.10147",
         "year": "2022",
         "journal": "JINST",
-        "cite": "",
-        "status": "accepted"
+        "cite": "JINST 17, P11022 (2022)",
+        "status": "published"
     },
     {
         "title": "Cosmic ray muon clustering for the MicroBooNE liquid argon time projection chamber using sMask-RCNN",
         "arXiv": "2201.05705",
         "year": "2022",
         "journal": "JINST",
-        "cite": "",
-        "status": "submitted"
+        "cite": "JINST 17, P09015 (2002)",
+        "status": "published"
     },
     {
         "title": "Novel Approach for Evaluating Detector-Related Uncertainties in a LArTPC Using MicroBooNE Data",
