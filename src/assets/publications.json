@@ -1,12 +1,13 @@
 [
   {
-    "title": "Measurement of triple-differential inclusive muon-neutrino charged-current cross section on argon with the MicroBooNE detector",
-    "arXiv": "2307.06413",
+    "title": "First demonstration for a LArTPC-based search for intranuclear neutron-antineutron transitions and annihilation in 40Ar using the MicroBooNE detector",
+    "arXiv": "2308.03924",
     "year": "2023",
-    "journal": "PRL",
+    "journal": "PRD",
     "cite": "",
     "status": "submitted"
   },
+
   {
     "title": "First measurement of η production in neutrino interactions on argon with MicroBooNE",
     "arXiv": "2305.16249",
@@ -20,24 +21,24 @@
     "arXiv": "2304.02076",
     "year": "2023",
     "journal": "PRD",
-    "cite": "",
-    "status": "submitted"
+    "cite": "Phys. Rev. D 108, 052010 (2023)",
+    "status": "published"
   },
   {
     "title": "First double-differential measurement of kinematic imbalance in neutrino interactions with the MicroBooNE detector",
     "arXiv": "2301.03706",
     "year": "2023",
     "journal": "PRL",
-    "cite": "",
-    "status": "accepted"
+    "cite": "Phys. Rev. Lett. 131, 101802 (2023)",
+    "status": "published"
   },
   {
     "title": "Multi-Differential Cross Section Measurements of Muon-Neutrino-Argon Quasielastic-like Reactions with the MicroBooNE Detector",
     "arXiv": "2301.03700",
     "year": "2023",
     "journal": "PRD",
-    "cite": "",
-    "status": "accepted"
+    "cite": "Phys. Rev. D 108, 053002 (2023)",
+    "status": "published"
   },
     {
       "title": "First measurement of quasi-elastic Λ baryon production in muon anti-neutrino interactions in the MicroBooNE detector",
