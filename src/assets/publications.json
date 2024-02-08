@@ -1,11 +1,27 @@
 [
   {
     "title": "Search for heavy neutral leptons in electron-positron and neutral-pion final states with the MicroBooNE detector",
-    "arXiv": "2310.07660",
+    "arXiv": "2307.03102",
+    "year": "2023",
+    "journal": "PRD",
+    "cite": "",
+    "status": "submitted"
+  },
+  {
+    "title": "Measurement of triple-differential inclusive muon-neutrino charged-current cross section on argon with the MicroBooNE detector",
+    "arXiv": "2307.06413",
     "year": "2023",
     "journal": "PRL",
     "cite": "",
-    "status": "Accepted"
+    "status": "submitted"
+  },
+   {
+    "title": "Measurement of ambient radon daughter decay rates and energy spectra in liquid argon using the MicroBooNE detector",
+    "arXiv": "2310.07660",
+    "year": "2023",
+    "journal": "PRL",
+    "cite": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.041801",
+    "status": "published"
   },
 
   {
