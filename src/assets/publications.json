@@ -1,4 +1,28 @@
 [ 
+ {
+    "title": "First double-differential cross section measurement of neutral-current  production in neutrino-argon scattering in the MicroBooNE detector",
+    "arXiv": "2404.10948",
+    "year": "2024",
+    "journal": "PRL",
+    "cite": "",
+    "status": "submitted"
+  },
+  {
+    "title": "Measurement of the differential cross section for neutral pion production in charged-current muon neutrino interactions on argon with the MicroBooNE detector",
+    "arXiv": "2404.09949",
+    "year": "2024",
+    "journal": "PRD",
+    "cite": "",
+    "status": "submitted"
+  },
+   {
+    "title": "Measurement of double-differential cross sections for mesonless charged-current muon neutrino interactions on argon with final-state protons using the MicroBooNE detector",
+    "arXiv": "2403.19574",
+    "year": "2024",
+    "journal": "PRD",
+    "cite": "",
+    "status": "submitted"
+  },
   {
     "title": "First simultaneous measurement of differential muon-neutrino charged-current cross sections on argon for final states with and without protons using MicroBooNE data",
     "arXiv": "2402.19281",
@@ -63,8 +87,8 @@
     "arXiv": "2305.16249",
     "year": "2023",
     "journal": "PRL",
-    "cite": "",
-    "status": "submitted"
+    "cite": "Phys. Rev. Lett. 132 (15), 151801",
+    "status": "published"
   },
   {
     "title": "First demonstration of O(1ns) timing resolution in the MicroBooNE liquid argon time projection chamber",
