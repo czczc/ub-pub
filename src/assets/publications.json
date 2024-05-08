@@ -1,6 +1,6 @@
 [ 
  {
-    "title": "First double-differential cross section measurement of neutral-current  production in neutrino-argon scattering in the MicroBooNE detector",
+    "title": "First double-differential cross section measurement of neutral-current production in neutrino-argon scattering in the MicroBooNE detector",
     "arXiv": "2404.10948",
     "year": "2024",
     "journal": "PRL",
@@ -39,10 +39,18 @@
     "cite": "",
     "status": "submitted"
   },
+ {
+    "title": "First search for dark-trident processes using the MicroBooNE detector",
+    "arXiv": "2312.13945",
+    "year": "2023",
+    "journal": "PRL",
+    "cite": "",
+    "status": "submitted"
+  },
   {
     "title": "Measurement of ambient radon daughter decay rates and energy spectra in liquid argon using the MicroBooNE detector",
     "arXiv": "2307.03102",
-    "year": "2023",
+    "year": "2024",
     "journal": "PRD",
     "cite": "Phys. Rev. D 109, 052007 (2024)",
     "status": "published"
@@ -76,8 +84,8 @@
   {
     "title": "First demonstration for a LArTPC-based search for intranuclear neutron-antineutron transitions and annihilation in 40Ar using the MicroBooNE detector",
     "arXiv": "2308.03924",
-    "year": "2023",
-    "journal": "PRD",
+    "year": "2024",
+    "journal": "JINST",
     "cite": "",
     "status": "submitted"
   },
@@ -85,9 +93,9 @@
   {
     "title": "First measurement of η production in neutrino interactions on argon with MicroBooNE",
     "arXiv": "2305.16249",
-    "year": "2023",
+    "year": "2024",
     "journal": "PRL",
-    "cite": "Phys. Rev. Lett. 132 (15), 151801",
+    "cite": "Phys. Rev. Lett. 132 (15), 151801 (2024)",
     "status": "published"
   },
   {
