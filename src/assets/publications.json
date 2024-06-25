@@ -1,5 +1,21 @@
 [ 
  {
+    "title": "Demonstration of neutron identification in neutrino interactions in the MicroBooNE liquid argon time projection chamber",
+    "arXiv": "2406.10583",
+    "year": "2024",
+    "journal": "EPJC",
+    "cite": "",
+    "status": "submitted"
+  },
+ {
+    "title": "Improving neutrino energy estimation of charged-current interaction events with 2 recurrent neural networks in MicroBooNE",
+    "arXiv": "2406.10123",
+    "year": "2024",
+    "journal": "PRD",
+    "cite": "",
+    "status": "submitted"
+  },
+ {
     "title": "First double-differential cross section measurement of neutral-current production in neutrino-argon scattering in the MicroBooNE detector",
     "arXiv": "2404.10948",
     "year": "2024",
