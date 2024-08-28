@@ -44,16 +44,16 @@
     "arXiv": "2402.19281",
     "year": "2024",
     "journal": "PRL",
-    "cite": "",
-    "status": "accepted"
+    "cite": "Phys. Rev. Lett. 133 (4), 041801",
+    "status": "published"
   },
   {
     "title": "Inclusive cross section measurements in final states with and without protons for charged-current νμ-Ar scattering in MicroBooNE",
     "arXiv": "2402.19216",
     "year": "2024",
     "journal": "PRD",
-    "cite": "",
-    "status": "accepted"
+    "cite": "Phys. Rev. D 110 (1), 013006",
+    "status": "published"
   },
  {
     "title": "First search for dark-trident processes using the MicroBooNE detector",
@@ -71,15 +71,7 @@
     "cite": "Phys. Rev. D 109, 052007 (2024)",
     "status": "published"
   },
-  {
-    "title": "Measurement of triple-differential inclusive muon-neutrino charged-current cross section on argon with the MicroBooNE detector",
-    "arXiv": "2307.06413",
-    "year": "2023",
-    "journal": "PRL",
-    "cite": "",
-    "status": "submitted"
-  },
-   {
+    {
     "title": "Search for heavy neutral leptons in electron-positron and neutral-pion final states with the MicroBooNE detector",
     "arXiv": "2310.07660",
     "year": "2024",
@@ -98,12 +90,12 @@
   },
 
   {
-    "title": "First demonstration for a LArTPC-based search for intranuclear neutron-antineutron transitions and annihilation in 40Ar using the MicroBooNE detector",
+    "title": "First application of a liquid argon time projection chamber for the search for intranuclear neutron-antineutron transitions and annihilation in 40Ar using the MicroBooNE detector",
     "arXiv": "2308.03924",
     "year": "2024",
     "journal": "JINST",
-    "cite": "",
-    "status": "accepted"
+    "cite": "JINST 19 (07), P07032",
+    "status": "published"
   },
 
   {
